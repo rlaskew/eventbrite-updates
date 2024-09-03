@@ -1,6 +1,4 @@
 
-
-
 ## Gets USER info including ID for token
 curl https://www.eventbriteapi.com/v3/users/me/?token=${TOKEN}
 
@@ -24,4 +22,6 @@ curl -sS https://www.eventbriteapi.com/v3/events/${EVENT_ID}/schedules/
   }
 }
 
-## 
+
+## Get Events by Org id -- looks like 200 is the max page size
+curl -sS  "https://www.eventbriteapi.com/v3/organizations/${ORG_ID}/events/?token=${TOKEN}&page_size=100"

@@ -1,0 +1,4112 @@
+{
+  "pagination": {
+    "object_count": 2301,
+    "page_number": 1,
+    "page_size": 50,
+    "page_count": 47,
+    "continuation": "eyJwYWdlIjogMn0",
+    "has_more_items": true
+  },
+  "events": [
+    {
+      "name": {
+        "text": "Dreamer To Achiever: An Entrepreneur's Guide to Getting Started!",
+        "html": "Dreamer To Achiever: An Entrepreneur&#39;s Guide to Getting Started!"
+      },
+      "description": {
+        "text": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+        "html": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!"
+      },
+      "url": "https://www.eventbrite.com/e/dreamer-to-achiever-an-entrepreneurs-guide-to-getting-started-tickets-891451143367",
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T08:00:00",
+        "utc": "2024-05-14T15:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T09:30:00",
+        "utc": "2024-05-14T16:30:00Z"
+      },
+      "organization_id": "2000273189263",
+      "created": "2024-04-26T06:26:47Z",
+      "changed": "2024-05-15T04:32:57Z",
+      "published": "2024-04-26T06:38:59Z",
+      "capacity": 25,
+      "capacity_is_custom": true,
+      "status": "completed",
+      "currency": "USD",
+      "listed": true,
+      "shareable": true,
+      "invite_only": false,
+      "online_event": false,
+      "show_remaining": false,
+      "tx_time_limit": 1200,
+      "hide_start_date": false,
+      "hide_end_date": false,
+      "locale": "en_US",
+      "is_locked": false,
+      "privacy_setting": "unlocked",
+      "is_series": true,
+      "is_series_parent": false,
+      "inventory_type": "limited",
+      "is_reserved_seating": false,
+      "show_pick_a_seat": false,
+      "show_seatmap_thumbnail": false,
+      "show_colors_in_seatmap_thumbnail": false,
+      "source": "coyote",
+      "is_free": true,
+      "version": null,
+      "summary": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+      "facebook_event_id": null,
+      "logo_id": "751601039",
+      "organizer_id": "78683726383",
+      "venue_id": "210510949",
+      "category_id": "101",
+      "subcategory_id": "1001",
+      "format_id": "9",
+      "id": "891451143367",
+      "resource_uri": "https://www.eventbriteapi.com/v3/events/891451143367/",
+      "is_externally_ticketed": false,
+      "series_id": "891447271787",
+      "logo": {
+        "crop_mask": {
+          "top_left": {
+            "x": 0,
+            "y": 0
+          },
+          "width": 2160,
+          "height": 1080
+        },
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?auto=format%2Ccompress&q=75&sharp=10&s=30b0714ca89509afc2040c87b81622f7",
+          "width": 2160,
+          "height": 1080
+        },
+        "id": "751601039",
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=2ef9259fb20673f90029221705e5baf2",
+        "aspect_ratio": "2",
+        "edge_color": "#e8d8d1",
+        "edge_color_set": true
+      }
+    },
+    {
+      "name": {
+        "text": "Dreamer To Achiever: An Entrepreneur's Guide to Getting Started!",
+        "html": "Dreamer To Achiever: An Entrepreneur&#39;s Guide to Getting Started!"
+      },
+      "description": {
+        "text": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+        "html": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!"
+      },
+      "url": "https://www.eventbrite.com/e/dreamer-to-achiever-an-entrepreneurs-guide-to-getting-started-tickets-891467522357",
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T08:00:00",
+        "utc": "2024-05-14T15:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T09:30:00",
+        "utc": "2024-05-14T16:30:00Z"
+      },
+      "organization_id": "2000273189263",
+      "created": "2024-04-26T07:09:39Z",
+      "changed": "2024-05-15T04:32:53Z",
+      "published": "2024-04-26T07:21:40Z",
+      "capacity": 25,
+      "capacity_is_custom": true,
+      "status": "completed",
+      "currency": "USD",
+      "listed": true,
+      "shareable": true,
+      "invite_only": false,
+      "online_event": false,
+      "show_remaining": false,
+      "tx_time_limit": 1200,
+      "hide_start_date": false,
+      "hide_end_date": false,
+      "locale": "en_US",
+      "is_locked": false,
+      "privacy_setting": "unlocked",
+      "is_series": true,
+      "is_series_parent": false,
+      "inventory_type": "limited",
+      "is_reserved_seating": false,
+      "show_pick_a_seat": false,
+      "show_seatmap_thumbnail": false,
+      "show_colors_in_seatmap_thumbnail": false,
+      "source": "coyote",
+      "is_free": true,
+      "version": null,
+      "summary": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+      "facebook_event_id": null,
+      "logo_id": "751601039",
+      "organizer_id": "78683726383",
+      "venue_id": "210510859",
+      "category_id": "101",
+      "subcategory_id": "1001",
+      "format_id": "9",
+      "id": "891467522357",
+      "resource_uri": "https://www.eventbriteapi.com/v3/events/891467522357/",
+      "is_externally_ticketed": false,
+      "series_id": "891447372087",
+      "logo": {
+        "crop_mask": {
+          "top_left": {
+            "x": 0,
+            "y": 0
+          },
+          "width": 2160,
+          "height": 1080
+        },
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?auto=format%2Ccompress&q=75&sharp=10&s=30b0714ca89509afc2040c87b81622f7",
+          "width": 2160,
+          "height": 1080
+        },
+        "id": "751601039",
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=2ef9259fb20673f90029221705e5baf2",
+        "aspect_ratio": "2",
+        "edge_color": "#e8d8d1",
+        "edge_color_set": true
+      }
+    },
+    {
+      "name": {
+        "text": "Dreamer To Achiever: An Entrepreneur's Guide to Getting Started!",
+        "html": "Dreamer To Achiever: An Entrepreneur&#39;s Guide to Getting Started!"
+      },
+      "description": {
+        "text": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+        "html": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!"
+      },
+      "url": "https://www.eventbrite.com/e/dreamer-to-achiever-an-entrepreneurs-guide-to-getting-started-tickets-891467652747",
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T08:00:00",
+        "utc": "2024-05-14T15:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T09:30:00",
+        "utc": "2024-05-14T16:30:00Z"
+      },
+      "organization_id": "2000273189263",
+      "created": "2024-04-26T07:09:50Z",
+      "changed": "2024-05-15T04:32:53Z",
+      "published": "2024-04-26T07:22:12Z",
+      "capacity": 25,
+      "capacity_is_custom": true,
+      "status": "completed",
+      "currency": "USD",
+      "listed": true,
+      "shareable": true,
+      "invite_only": false,
+      "online_event": false,
+      "show_remaining": false,
+      "tx_time_limit": 1200,
+      "hide_start_date": false,
+      "hide_end_date": false,
+      "locale": "en_US",
+      "is_locked": false,
+      "privacy_setting": "unlocked",
+      "is_series": true,
+      "is_series_parent": false,
+      "inventory_type": "limited",
+      "is_reserved_seating": false,
+      "show_pick_a_seat": false,
+      "show_seatmap_thumbnail": false,
+      "show_colors_in_seatmap_thumbnail": false,
+      "source": "coyote",
+      "is_free": true,
+      "version": null,
+      "summary": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+      "facebook_event_id": null,
+      "logo_id": "751601039",
+      "organizer_id": "78683726383",
+      "venue_id": "210510889",
+      "category_id": "101",
+      "subcategory_id": "1001",
+      "format_id": "9",
+      "id": "891467652747",
+      "resource_uri": "https://www.eventbriteapi.com/v3/events/891467652747/",
+      "is_externally_ticketed": false,
+      "series_id": "891447462357",
+      "logo": {
+        "crop_mask": {
+          "top_left": {
+            "x": 0,
+            "y": 0
+          },
+          "width": 2160,
+          "height": 1080
+        },
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?auto=format%2Ccompress&q=75&sharp=10&s=30b0714ca89509afc2040c87b81622f7",
+          "width": 2160,
+          "height": 1080
+        },
+        "id": "751601039",
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=2ef9259fb20673f90029221705e5baf2",
+        "aspect_ratio": "2",
+        "edge_color": "#e8d8d1",
+        "edge_color_set": true
+      }
+    },
+    {
+      "name": {
+        "text": "Dreamer To Achiever: An Entrepreneur's Guide to Getting Started!",
+        "html": "Dreamer To Achiever: An Entrepreneur&#39;s Guide to Getting Started!"
+      },
+      "description": {
+        "text": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+        "html": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!"
+      },
+      "url": "https://www.eventbrite.com/e/dreamer-to-achiever-an-entrepreneurs-guide-to-getting-started-tickets-891467702897",
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T08:00:00",
+        "utc": "2024-05-14T15:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T09:30:00",
+        "utc": "2024-05-14T16:30:00Z"
+      },
+      "organization_id": "2000273189263",
+      "created": "2024-04-26T07:09:59Z",
+      "changed": "2024-05-15T04:32:53Z",
+      "published": "2024-04-26T07:20:56Z",
+      "capacity": 25,
+      "capacity_is_custom": true,
+      "status": "completed",
+      "currency": "USD",
+      "listed": true,
+      "shareable": true,
+      "invite_only": false,
+      "online_event": false,
+      "show_remaining": false,
+      "tx_time_limit": 1200,
+      "hide_start_date": false,
+      "hide_end_date": false,
+      "locale": "en_US",
+      "is_locked": false,
+      "privacy_setting": "unlocked",
+      "is_series": true,
+      "is_series_parent": false,
+      "inventory_type": "limited",
+      "is_reserved_seating": false,
+      "show_pick_a_seat": false,
+      "show_seatmap_thumbnail": false,
+      "show_colors_in_seatmap_thumbnail": false,
+      "source": "coyote",
+      "is_free": true,
+      "version": null,
+      "summary": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+      "facebook_event_id": null,
+      "logo_id": "751601039",
+      "organizer_id": "78683726383",
+      "venue_id": "210510909",
+      "category_id": "101",
+      "subcategory_id": "1001",
+      "format_id": "9",
+      "id": "891467702897",
+      "resource_uri": "https://www.eventbriteapi.com/v3/events/891467702897/",
+      "is_externally_ticketed": false,
+      "series_id": "891447472387",
+      "logo": {
+        "crop_mask": {
+          "top_left": {
+            "x": 0,
+            "y": 0
+          },
+          "width": 2160,
+          "height": 1080
+        },
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?auto=format%2Ccompress&q=75&sharp=10&s=30b0714ca89509afc2040c87b81622f7",
+          "width": 2160,
+          "height": 1080
+        },
+        "id": "751601039",
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=2ef9259fb20673f90029221705e5baf2",
+        "aspect_ratio": "2",
+        "edge_color": "#e8d8d1",
+        "edge_color_set": true
+      }
+    },
+    {
+      "name": {
+        "text": "Dreamer To Achiever: An Entrepreneur's Guide to Getting Started!",
+        "html": "Dreamer To Achiever: An Entrepreneur&#39;s Guide to Getting Started!"
+      },
+      "description": {
+        "text": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+        "html": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!"
+      },
+      "url": "https://www.eventbrite.com/e/dreamer-to-achiever-an-entrepreneurs-guide-to-getting-started-tickets-891467763077",
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T08:00:00",
+        "utc": "2024-05-14T15:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T09:30:00",
+        "utc": "2024-05-14T16:30:00Z"
+      },
+      "organization_id": "2000273189263",
+      "created": "2024-04-26T07:10:09Z",
+      "changed": "2024-05-15T04:32:53Z",
+      "published": "2024-04-26T07:19:12Z",
+      "capacity": 25,
+      "capacity_is_custom": true,
+      "status": "completed",
+      "currency": "USD",
+      "listed": true,
+      "shareable": true,
+      "invite_only": false,
+      "online_event": false,
+      "show_remaining": false,
+      "tx_time_limit": 1200,
+      "hide_start_date": false,
+      "hide_end_date": false,
+      "locale": "en_US",
+      "is_locked": false,
+      "privacy_setting": "unlocked",
+      "is_series": true,
+      "is_series_parent": false,
+      "inventory_type": "limited",
+      "is_reserved_seating": false,
+      "show_pick_a_seat": false,
+      "show_seatmap_thumbnail": false,
+      "show_colors_in_seatmap_thumbnail": false,
+      "source": "coyote",
+      "is_free": true,
+      "version": null,
+      "summary": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+      "facebook_event_id": null,
+      "logo_id": "751601039",
+      "organizer_id": "78683726383",
+      "venue_id": "210510929",
+      "category_id": "101",
+      "subcategory_id": "1001",
+      "format_id": "9",
+      "id": "891467763077",
+      "resource_uri": "https://www.eventbriteapi.com/v3/events/891467763077/",
+      "is_externally_ticketed": false,
+      "series_id": "891447562657",
+      "logo": {
+        "crop_mask": {
+          "top_left": {
+            "x": 0,
+            "y": 0
+          },
+          "width": 2160,
+          "height": 1080
+        },
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?auto=format%2Ccompress&q=75&sharp=10&s=30b0714ca89509afc2040c87b81622f7",
+          "width": 2160,
+          "height": 1080
+        },
+        "id": "751601039",
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=2ef9259fb20673f90029221705e5baf2",
+        "aspect_ratio": "2",
+        "edge_color": "#e8d8d1",
+        "edge_color_set": true
+      }
+    },
+    {
+      "name": {
+        "text": "Dreamer To Achiever: An Entrepreneur's Guide to Getting Started!",
+        "html": "Dreamer To Achiever: An Entrepreneur&#39;s Guide to Getting Started!"
+      },
+      "description": {
+        "text": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+        "html": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!"
+      },
+      "url": "https://www.eventbrite.com/e/dreamer-to-achiever-an-entrepreneurs-guide-to-getting-started-tickets-891473821197",
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T08:00:00",
+        "utc": "2024-05-14T15:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T09:30:00",
+        "utc": "2024-05-14T16:30:00Z"
+      },
+      "organization_id": "2000273189263",
+      "created": "2024-04-26T07:28:46Z",
+      "changed": "2024-05-15T04:32:51Z",
+      "published": "2024-04-26T07:29:36Z",
+      "capacity": 25,
+      "capacity_is_custom": true,
+      "status": "completed",
+      "currency": "USD",
+      "listed": true,
+      "shareable": true,
+      "invite_only": false,
+      "online_event": false,
+      "show_remaining": false,
+      "tx_time_limit": 1200,
+      "hide_start_date": false,
+      "hide_end_date": false,
+      "locale": "en_US",
+      "is_locked": false,
+      "privacy_setting": "unlocked",
+      "is_series": true,
+      "is_series_parent": false,
+      "inventory_type": "limited",
+      "is_reserved_seating": false,
+      "show_pick_a_seat": false,
+      "show_seatmap_thumbnail": false,
+      "show_colors_in_seatmap_thumbnail": false,
+      "source": "coyote",
+      "is_free": true,
+      "version": null,
+      "summary": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+      "facebook_event_id": null,
+      "logo_id": "751601039",
+      "organizer_id": "78683726383",
+      "venue_id": "210515799",
+      "category_id": "101",
+      "subcategory_id": "1001",
+      "format_id": "9",
+      "id": "891473821197",
+      "resource_uri": "https://www.eventbriteapi.com/v3/events/891473821197/",
+      "is_externally_ticketed": false,
+      "series_id": "891473500237",
+      "logo": {
+        "crop_mask": {
+          "top_left": {
+            "x": 0,
+            "y": 0
+          },
+          "width": 2160,
+          "height": 1080
+        },
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?auto=format%2Ccompress&q=75&sharp=10&s=30b0714ca89509afc2040c87b81622f7",
+          "width": 2160,
+          "height": 1080
+        },
+        "id": "751601039",
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=2ef9259fb20673f90029221705e5baf2",
+        "aspect_ratio": "2",
+        "edge_color": "#e8d8d1",
+        "edge_color_set": true
+      }
+    },
+    {
+      "name": {
+        "text": "Dreamer To Achiever: An Entrepreneur's Guide to Getting Started!",
+        "html": "Dreamer To Achiever: An Entrepreneur&#39;s Guide to Getting Started!"
+      },
+      "description": {
+        "text": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+        "html": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!"
+      },
+      "url": "https://www.eventbrite.com/e/dreamer-to-achiever-an-entrepreneurs-guide-to-getting-started-tickets-891474583477",
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T08:00:00",
+        "utc": "2024-05-14T15:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T09:30:00",
+        "utc": "2024-05-14T16:30:00Z"
+      },
+      "organization_id": "2000273189263",
+      "created": "2024-04-26T07:31:03Z",
+      "changed": "2024-05-15T04:32:51Z",
+      "published": "2024-04-26T07:32:02Z",
+      "capacity": 25,
+      "capacity_is_custom": true,
+      "status": "completed",
+      "currency": "USD",
+      "listed": true,
+      "shareable": true,
+      "invite_only": false,
+      "online_event": false,
+      "show_remaining": false,
+      "tx_time_limit": 1200,
+      "hide_start_date": false,
+      "hide_end_date": false,
+      "locale": "en_US",
+      "is_locked": false,
+      "privacy_setting": "unlocked",
+      "is_series": true,
+      "is_series_parent": false,
+      "inventory_type": "limited",
+      "is_reserved_seating": false,
+      "show_pick_a_seat": false,
+      "show_seatmap_thumbnail": false,
+      "show_colors_in_seatmap_thumbnail": false,
+      "source": "coyote",
+      "is_free": true,
+      "version": null,
+      "summary": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+      "facebook_event_id": null,
+      "logo_id": "751601039",
+      "organizer_id": "78683726383",
+      "venue_id": "210515529",
+      "category_id": "101",
+      "subcategory_id": "1001",
+      "format_id": "9",
+      "id": "891474583477",
+      "resource_uri": "https://www.eventbriteapi.com/v3/events/891474583477/",
+      "is_externally_ticketed": false,
+      "series_id": "891471353817",
+      "logo": {
+        "crop_mask": {
+          "top_left": {
+            "x": 0,
+            "y": 0
+          },
+          "width": 2160,
+          "height": 1080
+        },
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?auto=format%2Ccompress&q=75&sharp=10&s=30b0714ca89509afc2040c87b81622f7",
+          "width": 2160,
+          "height": 1080
+        },
+        "id": "751601039",
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=2ef9259fb20673f90029221705e5baf2",
+        "aspect_ratio": "2",
+        "edge_color": "#e8d8d1",
+        "edge_color_set": true
+      }
+    },
+    {
+      "name": {
+        "text": "Dreamer To Achiever: An Entrepreneur's Guide to Getting Started!",
+        "html": "Dreamer To Achiever: An Entrepreneur&#39;s Guide to Getting Started!"
+      },
+      "description": {
+        "text": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+        "html": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!"
+      },
+      "url": "https://www.eventbrite.com/e/dreamer-to-achiever-an-entrepreneurs-guide-to-getting-started-tickets-891474794107",
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T08:00:00",
+        "utc": "2024-05-14T15:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T09:30:00",
+        "utc": "2024-05-14T16:30:00Z"
+      },
+      "organization_id": "2000273189263",
+      "created": "2024-04-26T07:32:10Z",
+      "changed": "2024-05-15T04:32:51Z",
+      "published": "2024-04-26T07:32:48Z",
+      "capacity": 25,
+      "capacity_is_custom": true,
+      "status": "completed",
+      "currency": "USD",
+      "listed": true,
+      "shareable": true,
+      "invite_only": false,
+      "online_event": false,
+      "show_remaining": false,
+      "tx_time_limit": 1200,
+      "hide_start_date": false,
+      "hide_end_date": false,
+      "locale": "en_US",
+      "is_locked": false,
+      "privacy_setting": "unlocked",
+      "is_series": true,
+      "is_series_parent": false,
+      "inventory_type": "limited",
+      "is_reserved_seating": false,
+      "show_pick_a_seat": false,
+      "show_seatmap_thumbnail": false,
+      "show_colors_in_seatmap_thumbnail": false,
+      "source": "coyote",
+      "is_free": true,
+      "version": null,
+      "summary": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+      "facebook_event_id": null,
+      "logo_id": "751601039",
+      "organizer_id": "78683726383",
+      "venue_id": "210515559",
+      "category_id": "101",
+      "subcategory_id": "1001",
+      "format_id": "9",
+      "id": "891474794107",
+      "resource_uri": "https://www.eventbriteapi.com/v3/events/891474794107/",
+      "is_externally_ticketed": false,
+      "series_id": "891471363847",
+      "logo": {
+        "crop_mask": {
+          "top_left": {
+            "x": 0,
+            "y": 0
+          },
+          "width": 2160,
+          "height": 1080
+        },
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?auto=format%2Ccompress&q=75&sharp=10&s=30b0714ca89509afc2040c87b81622f7",
+          "width": 2160,
+          "height": 1080
+        },
+        "id": "751601039",
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=2ef9259fb20673f90029221705e5baf2",
+        "aspect_ratio": "2",
+        "edge_color": "#e8d8d1",
+        "edge_color_set": true
+      }
+    },
+    {
+      "name": {
+        "text": "Dreamer To Achiever: An Entrepreneur's Guide to Getting Started!",
+        "html": "Dreamer To Achiever: An Entrepreneur&#39;s Guide to Getting Started!"
+      },
+      "description": {
+        "text": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+        "html": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!"
+      },
+      "url": "https://www.eventbrite.com/e/dreamer-to-achiever-an-entrepreneurs-guide-to-getting-started-tickets-891474964617",
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T08:00:00",
+        "utc": "2024-05-14T15:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T09:30:00",
+        "utc": "2024-05-14T16:30:00Z"
+      },
+      "organization_id": "2000273189263",
+      "created": "2024-04-26T07:33:11Z",
+      "changed": "2024-05-15T04:32:51Z",
+      "published": "2024-04-26T07:33:50Z",
+      "capacity": 25,
+      "capacity_is_custom": true,
+      "status": "completed",
+      "currency": "USD",
+      "listed": true,
+      "shareable": true,
+      "invite_only": false,
+      "online_event": false,
+      "show_remaining": false,
+      "tx_time_limit": 1200,
+      "hide_start_date": false,
+      "hide_end_date": false,
+      "locale": "en_US",
+      "is_locked": false,
+      "privacy_setting": "unlocked",
+      "is_series": true,
+      "is_series_parent": false,
+      "inventory_type": "limited",
+      "is_reserved_seating": false,
+      "show_pick_a_seat": false,
+      "show_seatmap_thumbnail": false,
+      "show_colors_in_seatmap_thumbnail": false,
+      "source": "coyote",
+      "is_free": true,
+      "version": null,
+      "summary": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+      "facebook_event_id": null,
+      "logo_id": "751601039",
+      "organizer_id": "78683726383",
+      "venue_id": "210515569",
+      "category_id": "101",
+      "subcategory_id": "1001",
+      "format_id": "9",
+      "id": "891474964617",
+      "resource_uri": "https://www.eventbriteapi.com/v3/events/891474964617/",
+      "is_externally_ticketed": false,
+      "series_id": "891471383907",
+      "logo": {
+        "crop_mask": {
+          "top_left": {
+            "x": 0,
+            "y": 0
+          },
+          "width": 2160,
+          "height": 1080
+        },
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?auto=format%2Ccompress&q=75&sharp=10&s=30b0714ca89509afc2040c87b81622f7",
+          "width": 2160,
+          "height": 1080
+        },
+        "id": "751601039",
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=2ef9259fb20673f90029221705e5baf2",
+        "aspect_ratio": "2",
+        "edge_color": "#e8d8d1",
+        "edge_color_set": true
+      }
+    },
+    {
+      "name": {
+        "text": "Dreamer To Achiever: An Entrepreneur's Guide to Getting Started!",
+        "html": "Dreamer To Achiever: An Entrepreneur&#39;s Guide to Getting Started!"
+      },
+      "description": {
+        "text": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+        "html": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!"
+      },
+      "url": "https://www.eventbrite.com/e/dreamer-to-achiever-an-entrepreneurs-guide-to-getting-started-tickets-891475466117",
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T08:00:00",
+        "utc": "2024-05-14T15:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T09:30:00",
+        "utc": "2024-05-14T16:30:00Z"
+      },
+      "organization_id": "2000273189263",
+      "created": "2024-04-26T07:34:10Z",
+      "changed": "2024-05-15T04:32:51Z",
+      "published": "2024-04-26T07:34:49Z",
+      "capacity": 25,
+      "capacity_is_custom": true,
+      "status": "completed",
+      "currency": "USD",
+      "listed": true,
+      "shareable": true,
+      "invite_only": false,
+      "online_event": false,
+      "show_remaining": false,
+      "tx_time_limit": 1200,
+      "hide_start_date": false,
+      "hide_end_date": false,
+      "locale": "en_US",
+      "is_locked": false,
+      "privacy_setting": "unlocked",
+      "is_series": true,
+      "is_series_parent": false,
+      "inventory_type": "limited",
+      "is_reserved_seating": false,
+      "show_pick_a_seat": false,
+      "show_seatmap_thumbnail": false,
+      "show_colors_in_seatmap_thumbnail": false,
+      "source": "coyote",
+      "is_free": true,
+      "version": null,
+      "summary": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+      "facebook_event_id": null,
+      "logo_id": "751601039",
+      "organizer_id": "78683726383",
+      "venue_id": "210515589",
+      "category_id": "101",
+      "subcategory_id": "1001",
+      "format_id": "9",
+      "id": "891475466117",
+      "resource_uri": "https://www.eventbriteapi.com/v3/events/891475466117/",
+      "is_externally_ticketed": false,
+      "series_id": "891471403967",
+      "logo": {
+        "crop_mask": {
+          "top_left": {
+            "x": 0,
+            "y": 0
+          },
+          "width": 2160,
+          "height": 1080
+        },
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?auto=format%2Ccompress&q=75&sharp=10&s=30b0714ca89509afc2040c87b81622f7",
+          "width": 2160,
+          "height": 1080
+        },
+        "id": "751601039",
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=2ef9259fb20673f90029221705e5baf2",
+        "aspect_ratio": "2",
+        "edge_color": "#e8d8d1",
+        "edge_color_set": true
+      }
+    },
+    {
+      "name": {
+        "text": "Dreamer To Achiever: An Entrepreneur's Guide to Getting Started!",
+        "html": "Dreamer To Achiever: An Entrepreneur&#39;s Guide to Getting Started!"
+      },
+      "description": {
+        "text": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+        "html": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!"
+      },
+      "url": "https://www.eventbrite.com/e/dreamer-to-achiever-an-entrepreneurs-guide-to-getting-started-tickets-891475827197",
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T08:00:00",
+        "utc": "2024-05-14T15:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T09:30:00",
+        "utc": "2024-05-14T16:30:00Z"
+      },
+      "organization_id": "2000273189263",
+      "created": "2024-04-26T07:35:05Z",
+      "changed": "2024-05-15T04:32:51Z",
+      "published": "2024-04-26T07:35:45Z",
+      "capacity": 25,
+      "capacity_is_custom": true,
+      "status": "completed",
+      "currency": "USD",
+      "listed": true,
+      "shareable": true,
+      "invite_only": false,
+      "online_event": false,
+      "show_remaining": false,
+      "tx_time_limit": 1200,
+      "hide_start_date": false,
+      "hide_end_date": false,
+      "locale": "en_US",
+      "is_locked": false,
+      "privacy_setting": "unlocked",
+      "is_series": true,
+      "is_series_parent": false,
+      "inventory_type": "limited",
+      "is_reserved_seating": false,
+      "show_pick_a_seat": false,
+      "show_seatmap_thumbnail": false,
+      "show_colors_in_seatmap_thumbnail": false,
+      "source": "coyote",
+      "is_free": true,
+      "version": null,
+      "summary": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+      "facebook_event_id": null,
+      "logo_id": "751601039",
+      "organizer_id": "78683726383",
+      "venue_id": "210515609",
+      "category_id": "101",
+      "subcategory_id": "1001",
+      "format_id": "9",
+      "id": "891475827197",
+      "resource_uri": "https://www.eventbriteapi.com/v3/events/891475827197/",
+      "is_externally_ticketed": false,
+      "series_id": "891471424027",
+      "logo": {
+        "crop_mask": {
+          "top_left": {
+            "x": 0,
+            "y": 0
+          },
+          "width": 2160,
+          "height": 1080
+        },
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?auto=format%2Ccompress&q=75&sharp=10&s=30b0714ca89509afc2040c87b81622f7",
+          "width": 2160,
+          "height": 1080
+        },
+        "id": "751601039",
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=2ef9259fb20673f90029221705e5baf2",
+        "aspect_ratio": "2",
+        "edge_color": "#e8d8d1",
+        "edge_color_set": true
+      }
+    },
+    {
+      "name": {
+        "text": "Dreamer To Achiever: An Entrepreneur's Guide to Getting Started!",
+        "html": "Dreamer To Achiever: An Entrepreneur&#39;s Guide to Getting Started!"
+      },
+      "description": {
+        "text": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+        "html": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!"
+      },
+      "url": "https://www.eventbrite.com/e/dreamer-to-achiever-an-entrepreneurs-guide-to-getting-started-tickets-891477442027",
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T08:00:00",
+        "utc": "2024-05-14T15:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T09:30:00",
+        "utc": "2024-05-14T16:30:00Z"
+      },
+      "organization_id": "2000273189263",
+      "created": "2024-04-26T07:41:56Z",
+      "changed": "2024-05-15T04:32:51Z",
+      "published": "2024-04-26T07:42:41Z",
+      "capacity": 25,
+      "capacity_is_custom": true,
+      "status": "completed",
+      "currency": "USD",
+      "listed": true,
+      "shareable": true,
+      "invite_only": false,
+      "online_event": false,
+      "show_remaining": false,
+      "tx_time_limit": 1200,
+      "hide_start_date": false,
+      "hide_end_date": false,
+      "locale": "en_US",
+      "is_locked": false,
+      "privacy_setting": "unlocked",
+      "is_series": true,
+      "is_series_parent": false,
+      "inventory_type": "limited",
+      "is_reserved_seating": false,
+      "show_pick_a_seat": false,
+      "show_seatmap_thumbnail": false,
+      "show_colors_in_seatmap_thumbnail": false,
+      "source": "coyote",
+      "is_free": true,
+      "version": null,
+      "summary": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+      "facebook_event_id": null,
+      "logo_id": "751601039",
+      "organizer_id": "78683726383",
+      "venue_id": "210516659",
+      "category_id": "101",
+      "subcategory_id": "1001",
+      "format_id": "9",
+      "id": "891477442027",
+      "resource_uri": "https://www.eventbriteapi.com/v3/events/891477442027/",
+      "is_externally_ticketed": false,
+      "series_id": "891474433027",
+      "logo": {
+        "crop_mask": {
+          "top_left": {
+            "x": 0,
+            "y": 0
+          },
+          "width": 2160,
+          "height": 1080
+        },
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?auto=format%2Ccompress&q=75&sharp=10&s=30b0714ca89509afc2040c87b81622f7",
+          "width": 2160,
+          "height": 1080
+        },
+        "id": "751601039",
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=2ef9259fb20673f90029221705e5baf2",
+        "aspect_ratio": "2",
+        "edge_color": "#e8d8d1",
+        "edge_color_set": true
+      }
+    },
+    {
+      "name": {
+        "text": "Dreamer To Achiever: An Entrepreneur's Guide to Getting Started!",
+        "html": "Dreamer To Achiever: An Entrepreneur&#39;s Guide to Getting Started!"
+      },
+      "description": {
+        "text": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+        "html": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!"
+      },
+      "url": "https://www.eventbrite.com/e/dreamer-to-achiever-an-entrepreneurs-guide-to-getting-started-tickets-891477742927",
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T08:00:00",
+        "utc": "2024-05-14T15:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T09:30:00",
+        "utc": "2024-05-14T16:30:00Z"
+      },
+      "organization_id": "2000273189263",
+      "created": "2024-04-26T07:43:11Z",
+      "changed": "2024-05-15T04:32:50Z",
+      "published": "2024-04-26T07:43:58Z",
+      "capacity": 25,
+      "capacity_is_custom": true,
+      "status": "completed",
+      "currency": "USD",
+      "listed": true,
+      "shareable": true,
+      "invite_only": false,
+      "online_event": false,
+      "show_remaining": false,
+      "tx_time_limit": 1200,
+      "hide_start_date": false,
+      "hide_end_date": false,
+      "locale": "en_US",
+      "is_locked": false,
+      "privacy_setting": "unlocked",
+      "is_series": true,
+      "is_series_parent": false,
+      "inventory_type": "limited",
+      "is_reserved_seating": false,
+      "show_pick_a_seat": false,
+      "show_seatmap_thumbnail": false,
+      "show_colors_in_seatmap_thumbnail": false,
+      "source": "coyote",
+      "is_free": true,
+      "version": null,
+      "summary": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+      "facebook_event_id": null,
+      "logo_id": "751601039",
+      "organizer_id": "78683726383",
+      "venue_id": "210516679",
+      "category_id": "101",
+      "subcategory_id": "1001",
+      "format_id": "9",
+      "id": "891477742927",
+      "resource_uri": "https://www.eventbriteapi.com/v3/events/891477742927/",
+      "is_externally_ticketed": false,
+      "series_id": "891474443057",
+      "logo": {
+        "crop_mask": {
+          "top_left": {
+            "x": 0,
+            "y": 0
+          },
+          "width": 2160,
+          "height": 1080
+        },
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?auto=format%2Ccompress&q=75&sharp=10&s=30b0714ca89509afc2040c87b81622f7",
+          "width": 2160,
+          "height": 1080
+        },
+        "id": "751601039",
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=2ef9259fb20673f90029221705e5baf2",
+        "aspect_ratio": "2",
+        "edge_color": "#e8d8d1",
+        "edge_color_set": true
+      }
+    },
+    {
+      "name": {
+        "text": "Dreamer To Achiever: An Entrepreneur's Guide to Getting Started!",
+        "html": "Dreamer To Achiever: An Entrepreneur&#39;s Guide to Getting Started!"
+      },
+      "description": {
+        "text": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+        "html": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!"
+      },
+      "url": "https://www.eventbrite.com/e/dreamer-to-achiever-an-entrepreneurs-guide-to-getting-started-tickets-891478264487",
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T08:00:00",
+        "utc": "2024-05-14T15:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T09:30:00",
+        "utc": "2024-05-14T16:30:00Z"
+      },
+      "organization_id": "2000273189263",
+      "created": "2024-04-26T07:45:27Z",
+      "changed": "2024-05-15T04:32:50Z",
+      "published": "2024-04-26T07:46:04Z",
+      "capacity": 25,
+      "capacity_is_custom": true,
+      "status": "completed",
+      "currency": "USD",
+      "listed": true,
+      "shareable": true,
+      "invite_only": false,
+      "online_event": false,
+      "show_remaining": false,
+      "tx_time_limit": 1200,
+      "hide_start_date": false,
+      "hide_end_date": false,
+      "locale": "en_US",
+      "is_locked": false,
+      "privacy_setting": "unlocked",
+      "is_series": true,
+      "is_series_parent": false,
+      "inventory_type": "limited",
+      "is_reserved_seating": false,
+      "show_pick_a_seat": false,
+      "show_seatmap_thumbnail": false,
+      "show_colors_in_seatmap_thumbnail": false,
+      "source": "coyote",
+      "is_free": true,
+      "version": null,
+      "summary": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+      "facebook_event_id": null,
+      "logo_id": "751601039",
+      "organizer_id": "78683726383",
+      "venue_id": "210516699",
+      "category_id": "101",
+      "subcategory_id": "1001",
+      "format_id": "9",
+      "id": "891478264487",
+      "resource_uri": "https://www.eventbriteapi.com/v3/events/891478264487/",
+      "is_externally_ticketed": false,
+      "series_id": "891474453087",
+      "logo": {
+        "crop_mask": {
+          "top_left": {
+            "x": 0,
+            "y": 0
+          },
+          "width": 2160,
+          "height": 1080
+        },
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?auto=format%2Ccompress&q=75&sharp=10&s=30b0714ca89509afc2040c87b81622f7",
+          "width": 2160,
+          "height": 1080
+        },
+        "id": "751601039",
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=2ef9259fb20673f90029221705e5baf2",
+        "aspect_ratio": "2",
+        "edge_color": "#e8d8d1",
+        "edge_color_set": true
+      }
+    },
+    {
+      "name": {
+        "text": "Dreamer To Achiever: An Entrepreneur's Guide to Getting Started!",
+        "html": "Dreamer To Achiever: An Entrepreneur&#39;s Guide to Getting Started!"
+      },
+      "description": {
+        "text": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+        "html": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!"
+      },
+      "url": "https://www.eventbrite.com/e/dreamer-to-achiever-an-entrepreneurs-guide-to-getting-started-tickets-891479548327",
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T08:00:00",
+        "utc": "2024-05-14T15:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T09:30:00",
+        "utc": "2024-05-14T16:30:00Z"
+      },
+      "organization_id": "2000273189263",
+      "created": "2024-04-26T07:49:51Z",
+      "changed": "2024-05-15T04:32:50Z",
+      "published": "2024-04-26T07:50:34Z",
+      "capacity": 25,
+      "capacity_is_custom": true,
+      "status": "completed",
+      "currency": "USD",
+      "listed": true,
+      "shareable": true,
+      "invite_only": false,
+      "online_event": false,
+      "show_remaining": false,
+      "tx_time_limit": 1200,
+      "hide_start_date": false,
+      "hide_end_date": false,
+      "locale": "en_US",
+      "is_locked": false,
+      "privacy_setting": "unlocked",
+      "is_series": true,
+      "is_series_parent": false,
+      "inventory_type": "limited",
+      "is_reserved_seating": false,
+      "show_pick_a_seat": false,
+      "show_seatmap_thumbnail": false,
+      "show_colors_in_seatmap_thumbnail": false,
+      "source": "coyote",
+      "is_free": true,
+      "version": null,
+      "summary": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+      "facebook_event_id": null,
+      "logo_id": "751601039",
+      "organizer_id": "78683726383",
+      "venue_id": "210517329",
+      "category_id": "101",
+      "subcategory_id": "1001",
+      "format_id": "9",
+      "id": "891479548327",
+      "resource_uri": "https://www.eventbriteapi.com/v3/events/891479548327/",
+      "is_externally_ticketed": false,
+      "series_id": "891477311637",
+      "logo": {
+        "crop_mask": {
+          "top_left": {
+            "x": 0,
+            "y": 0
+          },
+          "width": 2160,
+          "height": 1080
+        },
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?auto=format%2Ccompress&q=75&sharp=10&s=30b0714ca89509afc2040c87b81622f7",
+          "width": 2160,
+          "height": 1080
+        },
+        "id": "751601039",
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=2ef9259fb20673f90029221705e5baf2",
+        "aspect_ratio": "2",
+        "edge_color": "#e8d8d1",
+        "edge_color_set": true
+      }
+    },
+    {
+      "name": {
+        "text": "Dreamer To Achiever: An Entrepreneur's Guide to Getting Started!",
+        "html": "Dreamer To Achiever: An Entrepreneur&#39;s Guide to Getting Started!"
+      },
+      "description": {
+        "text": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+        "html": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!"
+      },
+      "url": "https://www.eventbrite.com/e/dreamer-to-achiever-an-entrepreneurs-guide-to-getting-started-tickets-891479899377",
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T08:00:00",
+        "utc": "2024-05-14T15:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T09:30:00",
+        "utc": "2024-05-14T16:30:00Z"
+      },
+      "organization_id": "2000273189263",
+      "created": "2024-04-26T07:51:19Z",
+      "changed": "2024-05-15T04:32:50Z",
+      "published": "2024-04-26T07:52:04Z",
+      "capacity": 25,
+      "capacity_is_custom": true,
+      "status": "completed",
+      "currency": "USD",
+      "listed": true,
+      "shareable": true,
+      "invite_only": false,
+      "online_event": false,
+      "show_remaining": false,
+      "tx_time_limit": 1200,
+      "hide_start_date": false,
+      "hide_end_date": false,
+      "locale": "en_US",
+      "is_locked": false,
+      "privacy_setting": "unlocked",
+      "is_series": true,
+      "is_series_parent": false,
+      "inventory_type": "limited",
+      "is_reserved_seating": false,
+      "show_pick_a_seat": false,
+      "show_seatmap_thumbnail": false,
+      "show_colors_in_seatmap_thumbnail": false,
+      "source": "coyote",
+      "is_free": true,
+      "version": null,
+      "summary": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+      "facebook_event_id": null,
+      "logo_id": "751601039",
+      "organizer_id": "78683726383",
+      "venue_id": "210517349",
+      "category_id": "101",
+      "subcategory_id": "1001",
+      "format_id": "9",
+      "id": "891479899377",
+      "resource_uri": "https://www.eventbriteapi.com/v3/events/891479899377/",
+      "is_externally_ticketed": false,
+      "series_id": "891477321667",
+      "logo": {
+        "crop_mask": {
+          "top_left": {
+            "x": 0,
+            "y": 0
+          },
+          "width": 2160,
+          "height": 1080
+        },
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?auto=format%2Ccompress&q=75&sharp=10&s=30b0714ca89509afc2040c87b81622f7",
+          "width": 2160,
+          "height": 1080
+        },
+        "id": "751601039",
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=2ef9259fb20673f90029221705e5baf2",
+        "aspect_ratio": "2",
+        "edge_color": "#e8d8d1",
+        "edge_color_set": true
+      }
+    },
+    {
+      "name": {
+        "text": "Dreamer To Achiever: An Entrepreneur's Guide to Getting Started!",
+        "html": "Dreamer To Achiever: An Entrepreneur&#39;s Guide to Getting Started!"
+      },
+      "description": {
+        "text": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+        "html": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!"
+      },
+      "url": "https://www.eventbrite.com/e/dreamer-to-achiever-an-entrepreneurs-guide-to-getting-started-tickets-891480751927",
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T08:00:00",
+        "utc": "2024-05-14T15:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T09:30:00",
+        "utc": "2024-05-14T16:30:00Z"
+      },
+      "organization_id": "2000273189263",
+      "created": "2024-04-26T07:53:58Z",
+      "changed": "2024-05-15T04:32:49Z",
+      "published": "2024-04-26T07:54:33Z",
+      "capacity": 25,
+      "capacity_is_custom": true,
+      "status": "completed",
+      "currency": "USD",
+      "listed": true,
+      "shareable": true,
+      "invite_only": false,
+      "online_event": false,
+      "show_remaining": false,
+      "tx_time_limit": 1200,
+      "hide_start_date": false,
+      "hide_end_date": false,
+      "locale": "en_US",
+      "is_locked": false,
+      "privacy_setting": "unlocked",
+      "is_series": true,
+      "is_series_parent": false,
+      "inventory_type": "limited",
+      "is_reserved_seating": false,
+      "show_pick_a_seat": false,
+      "show_seatmap_thumbnail": false,
+      "show_colors_in_seatmap_thumbnail": false,
+      "source": "coyote",
+      "is_free": true,
+      "version": null,
+      "summary": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+      "facebook_event_id": null,
+      "logo_id": "751601039",
+      "organizer_id": "78683726383",
+      "venue_id": "210517369",
+      "category_id": "101",
+      "subcategory_id": "1001",
+      "format_id": "9",
+      "id": "891480751927",
+      "resource_uri": "https://www.eventbriteapi.com/v3/events/891480751927/",
+      "is_externally_ticketed": false,
+      "series_id": "891477351757",
+      "logo": {
+        "crop_mask": {
+          "top_left": {
+            "x": 0,
+            "y": 0
+          },
+          "width": 2160,
+          "height": 1080
+        },
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?auto=format%2Ccompress&q=75&sharp=10&s=30b0714ca89509afc2040c87b81622f7",
+          "width": 2160,
+          "height": 1080
+        },
+        "id": "751601039",
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=2ef9259fb20673f90029221705e5baf2",
+        "aspect_ratio": "2",
+        "edge_color": "#e8d8d1",
+        "edge_color_set": true
+      }
+    },
+    {
+      "name": {
+        "text": "Dreamer To Achiever: An Entrepreneur's Guide to Getting Started!",
+        "html": "Dreamer To Achiever: An Entrepreneur&#39;s Guide to Getting Started!"
+      },
+      "description": {
+        "text": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+        "html": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!"
+      },
+      "url": "https://www.eventbrite.com/e/dreamer-to-achiever-an-entrepreneurs-guide-to-getting-started-tickets-891481554327",
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T08:00:00",
+        "utc": "2024-05-14T15:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T09:30:00",
+        "utc": "2024-05-14T16:30:00Z"
+      },
+      "organization_id": "2000273189263",
+      "created": "2024-04-26T07:56:14Z",
+      "changed": "2024-05-15T04:32:49Z",
+      "published": "2024-04-26T07:56:53Z",
+      "capacity": 25,
+      "capacity_is_custom": true,
+      "status": "completed",
+      "currency": "USD",
+      "listed": true,
+      "shareable": true,
+      "invite_only": false,
+      "online_event": false,
+      "show_remaining": false,
+      "tx_time_limit": 1200,
+      "hide_start_date": false,
+      "hide_end_date": false,
+      "locale": "en_US",
+      "is_locked": false,
+      "privacy_setting": "unlocked",
+      "is_series": true,
+      "is_series_parent": false,
+      "inventory_type": "limited",
+      "is_reserved_seating": false,
+      "show_pick_a_seat": false,
+      "show_seatmap_thumbnail": false,
+      "show_colors_in_seatmap_thumbnail": false,
+      "source": "coyote",
+      "is_free": true,
+      "version": null,
+      "summary": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+      "facebook_event_id": null,
+      "logo_id": "751601039",
+      "organizer_id": "78683726383",
+      "venue_id": "210517419",
+      "category_id": "101",
+      "subcategory_id": "1001",
+      "format_id": "9",
+      "id": "891481554327",
+      "resource_uri": "https://www.eventbriteapi.com/v3/events/891481554327/",
+      "is_externally_ticketed": false,
+      "series_id": "891477381847",
+      "logo": {
+        "crop_mask": {
+          "top_left": {
+            "x": 0,
+            "y": 0
+          },
+          "width": 2160,
+          "height": 1080
+        },
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?auto=format%2Ccompress&q=75&sharp=10&s=30b0714ca89509afc2040c87b81622f7",
+          "width": 2160,
+          "height": 1080
+        },
+        "id": "751601039",
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=2ef9259fb20673f90029221705e5baf2",
+        "aspect_ratio": "2",
+        "edge_color": "#e8d8d1",
+        "edge_color_set": true
+      }
+    },
+    {
+      "name": {
+        "text": "Dreamer To Achiever: An Entrepreneur's Guide to Getting Started!",
+        "html": "Dreamer To Achiever: An Entrepreneur&#39;s Guide to Getting Started!"
+      },
+      "description": {
+        "text": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+        "html": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!"
+      },
+      "url": "https://www.eventbrite.com/e/dreamer-to-achiever-an-entrepreneurs-guide-to-getting-started-tickets-891486980557",
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T08:00:00",
+        "utc": "2024-05-14T15:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T09:30:00",
+        "utc": "2024-05-14T16:30:00Z"
+      },
+      "organization_id": "2000273189263",
+      "created": "2024-04-26T08:16:46Z",
+      "changed": "2024-05-15T04:32:48Z",
+      "published": "2024-04-26T08:17:34Z",
+      "capacity": 25,
+      "capacity_is_custom": true,
+      "status": "completed",
+      "currency": "USD",
+      "listed": true,
+      "shareable": true,
+      "invite_only": false,
+      "online_event": false,
+      "show_remaining": false,
+      "tx_time_limit": 1200,
+      "hide_start_date": false,
+      "hide_end_date": false,
+      "locale": "en_US",
+      "is_locked": false,
+      "privacy_setting": "unlocked",
+      "is_series": true,
+      "is_series_parent": false,
+      "inventory_type": "limited",
+      "is_reserved_seating": false,
+      "show_pick_a_seat": false,
+      "show_seatmap_thumbnail": false,
+      "show_colors_in_seatmap_thumbnail": false,
+      "source": "coyote",
+      "is_free": true,
+      "version": null,
+      "summary": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+      "facebook_event_id": null,
+      "logo_id": "751601039",
+      "organizer_id": "78683726383",
+      "venue_id": "210518199",
+      "category_id": "101",
+      "subcategory_id": "1001",
+      "format_id": "9",
+      "id": "891486980557",
+      "resource_uri": "https://www.eventbriteapi.com/v3/events/891486980557/",
+      "is_externally_ticketed": false,
+      "series_id": "891479758957",
+      "logo": {
+        "crop_mask": {
+          "top_left": {
+            "x": 0,
+            "y": 0
+          },
+          "width": 2160,
+          "height": 1080
+        },
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?auto=format%2Ccompress&q=75&sharp=10&s=30b0714ca89509afc2040c87b81622f7",
+          "width": 2160,
+          "height": 1080
+        },
+        "id": "751601039",
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=2ef9259fb20673f90029221705e5baf2",
+        "aspect_ratio": "2",
+        "edge_color": "#e8d8d1",
+        "edge_color_set": true
+      }
+    },
+    {
+      "name": {
+        "text": "Dreamer To Achiever: An Entrepreneur's Guide to Getting Started!",
+        "html": "Dreamer To Achiever: An Entrepreneur&#39;s Guide to Getting Started!"
+      },
+      "description": {
+        "text": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+        "html": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!"
+      },
+      "url": "https://www.eventbrite.com/e/dreamer-to-achiever-an-entrepreneurs-guide-to-getting-started-tickets-891487572327",
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T08:00:00",
+        "utc": "2024-05-14T15:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T09:30:00",
+        "utc": "2024-05-14T16:30:00Z"
+      },
+      "organization_id": "2000273189263",
+      "created": "2024-04-26T08:19:15Z",
+      "changed": "2024-05-15T04:32:48Z",
+      "published": "2024-04-26T08:19:52Z",
+      "capacity": 25,
+      "capacity_is_custom": true,
+      "status": "completed",
+      "currency": "USD",
+      "listed": true,
+      "shareable": true,
+      "invite_only": false,
+      "online_event": false,
+      "show_remaining": false,
+      "tx_time_limit": 1200,
+      "hide_start_date": false,
+      "hide_end_date": false,
+      "locale": "en_US",
+      "is_locked": false,
+      "privacy_setting": "unlocked",
+      "is_series": true,
+      "is_series_parent": false,
+      "inventory_type": "limited",
+      "is_reserved_seating": false,
+      "show_pick_a_seat": false,
+      "show_seatmap_thumbnail": false,
+      "show_colors_in_seatmap_thumbnail": false,
+      "source": "coyote",
+      "is_free": true,
+      "version": null,
+      "summary": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+      "facebook_event_id": null,
+      "logo_id": "751601039",
+      "organizer_id": "78683726383",
+      "venue_id": "210518209",
+      "category_id": "101",
+      "subcategory_id": "1001",
+      "format_id": "9",
+      "id": "891487572327",
+      "resource_uri": "https://www.eventbriteapi.com/v3/events/891487572327/",
+      "is_externally_ticketed": false,
+      "series_id": "891479789047",
+      "logo": {
+        "crop_mask": {
+          "top_left": {
+            "x": 0,
+            "y": 0
+          },
+          "width": 2160,
+          "height": 1080
+        },
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?auto=format%2Ccompress&q=75&sharp=10&s=30b0714ca89509afc2040c87b81622f7",
+          "width": 2160,
+          "height": 1080
+        },
+        "id": "751601039",
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=2ef9259fb20673f90029221705e5baf2",
+        "aspect_ratio": "2",
+        "edge_color": "#e8d8d1",
+        "edge_color_set": true
+      }
+    },
+    {
+      "name": {
+        "text": "Dreamer To Achiever: An Entrepreneur's Guide to Getting Started!",
+        "html": "Dreamer To Achiever: An Entrepreneur&#39;s Guide to Getting Started!"
+      },
+      "description": {
+        "text": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+        "html": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!"
+      },
+      "url": "https://www.eventbrite.com/e/dreamer-to-achiever-an-entrepreneurs-guide-to-getting-started-tickets-891489086857",
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T08:00:00",
+        "utc": "2024-05-14T15:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T09:30:00",
+        "utc": "2024-05-14T16:30:00Z"
+      },
+      "organization_id": "2000273189263",
+      "created": "2024-04-26T08:23:50Z",
+      "changed": "2024-05-15T04:32:47Z",
+      "published": "2024-04-26T08:24:31Z",
+      "capacity": 25,
+      "capacity_is_custom": true,
+      "status": "completed",
+      "currency": "USD",
+      "listed": true,
+      "shareable": true,
+      "invite_only": false,
+      "online_event": false,
+      "show_remaining": false,
+      "tx_time_limit": 1200,
+      "hide_start_date": false,
+      "hide_end_date": false,
+      "locale": "en_US",
+      "is_locked": false,
+      "privacy_setting": "unlocked",
+      "is_series": true,
+      "is_series_parent": false,
+      "inventory_type": "limited",
+      "is_reserved_seating": false,
+      "show_pick_a_seat": false,
+      "show_seatmap_thumbnail": false,
+      "show_colors_in_seatmap_thumbnail": false,
+      "source": "coyote",
+      "is_free": true,
+      "version": null,
+      "summary": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+      "facebook_event_id": null,
+      "logo_id": "751601039",
+      "organizer_id": "78683726383",
+      "venue_id": "210518219",
+      "category_id": "101",
+      "subcategory_id": "1001",
+      "format_id": "9",
+      "id": "891489086857",
+      "resource_uri": "https://www.eventbriteapi.com/v3/events/891489086857/",
+      "is_externally_ticketed": false,
+      "series_id": "891479809107",
+      "logo": {
+        "crop_mask": {
+          "top_left": {
+            "x": 0,
+            "y": 0
+          },
+          "width": 2160,
+          "height": 1080
+        },
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?auto=format%2Ccompress&q=75&sharp=10&s=30b0714ca89509afc2040c87b81622f7",
+          "width": 2160,
+          "height": 1080
+        },
+        "id": "751601039",
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=2ef9259fb20673f90029221705e5baf2",
+        "aspect_ratio": "2",
+        "edge_color": "#e8d8d1",
+        "edge_color_set": true
+      }
+    },
+    {
+      "name": {
+        "text": "Dreamer To Achiever: An Entrepreneur's Guide to Getting Started!",
+        "html": "Dreamer To Achiever: An Entrepreneur&#39;s Guide to Getting Started!"
+      },
+      "description": {
+        "text": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+        "html": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!"
+      },
+      "url": "https://www.eventbrite.com/e/dreamer-to-achiever-an-entrepreneurs-guide-to-getting-started-tickets-891490531177",
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T08:00:00",
+        "utc": "2024-05-14T15:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T09:30:00",
+        "utc": "2024-05-14T16:30:00Z"
+      },
+      "organization_id": "2000273189263",
+      "created": "2024-04-26T08:28:09Z",
+      "changed": "2024-05-15T04:32:47Z",
+      "published": "2024-04-26T08:28:50Z",
+      "capacity": 25,
+      "capacity_is_custom": true,
+      "status": "completed",
+      "currency": "USD",
+      "listed": true,
+      "shareable": true,
+      "invite_only": false,
+      "online_event": false,
+      "show_remaining": false,
+      "tx_time_limit": 1200,
+      "hide_start_date": false,
+      "hide_end_date": false,
+      "locale": "en_US",
+      "is_locked": false,
+      "privacy_setting": "unlocked",
+      "is_series": true,
+      "is_series_parent": false,
+      "inventory_type": "limited",
+      "is_reserved_seating": false,
+      "show_pick_a_seat": false,
+      "show_seatmap_thumbnail": false,
+      "show_colors_in_seatmap_thumbnail": false,
+      "source": "coyote",
+      "is_free": true,
+      "version": null,
+      "summary": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+      "facebook_event_id": null,
+      "logo_id": "751601039",
+      "organizer_id": "78683726383",
+      "venue_id": "210518239",
+      "category_id": "101",
+      "subcategory_id": "1001",
+      "format_id": "9",
+      "id": "891490531177",
+      "resource_uri": "https://www.eventbriteapi.com/v3/events/891490531177/",
+      "is_externally_ticketed": false,
+      "series_id": "891479819137",
+      "logo": {
+        "crop_mask": {
+          "top_left": {
+            "x": 0,
+            "y": 0
+          },
+          "width": 2160,
+          "height": 1080
+        },
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?auto=format%2Ccompress&q=75&sharp=10&s=30b0714ca89509afc2040c87b81622f7",
+          "width": 2160,
+          "height": 1080
+        },
+        "id": "751601039",
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=2ef9259fb20673f90029221705e5baf2",
+        "aspect_ratio": "2",
+        "edge_color": "#e8d8d1",
+        "edge_color_set": true
+      }
+    },
+    {
+      "name": {
+        "text": "Dreamer To Achiever: An Entrepreneur's Guide to Getting Started!",
+        "html": "Dreamer To Achiever: An Entrepreneur&#39;s Guide to Getting Started!"
+      },
+      "description": {
+        "text": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+        "html": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!"
+      },
+      "url": "https://www.eventbrite.com/e/dreamer-to-achiever-an-entrepreneurs-guide-to-getting-started-tickets-891490842107",
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T08:00:00",
+        "utc": "2024-05-14T15:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T09:30:00",
+        "utc": "2024-05-14T16:30:00Z"
+      },
+      "organization_id": "2000273189263",
+      "created": "2024-04-26T08:29:01Z",
+      "changed": "2024-05-15T04:32:47Z",
+      "published": "2024-04-26T08:30:43Z",
+      "capacity": 25,
+      "capacity_is_custom": true,
+      "status": "completed",
+      "currency": "USD",
+      "listed": true,
+      "shareable": true,
+      "invite_only": false,
+      "online_event": false,
+      "show_remaining": false,
+      "tx_time_limit": 1200,
+      "hide_start_date": false,
+      "hide_end_date": false,
+      "locale": "en_US",
+      "is_locked": false,
+      "privacy_setting": "unlocked",
+      "is_series": true,
+      "is_series_parent": false,
+      "inventory_type": "limited",
+      "is_reserved_seating": false,
+      "show_pick_a_seat": false,
+      "show_seatmap_thumbnail": false,
+      "show_colors_in_seatmap_thumbnail": false,
+      "source": "coyote",
+      "is_free": true,
+      "version": null,
+      "summary": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+      "facebook_event_id": null,
+      "logo_id": "751601039",
+      "organizer_id": "78683726383",
+      "venue_id": "210518249",
+      "category_id": "101",
+      "subcategory_id": "1001",
+      "format_id": "9",
+      "id": "891490842107",
+      "resource_uri": "https://www.eventbriteapi.com/v3/events/891490842107/",
+      "is_externally_ticketed": false,
+      "series_id": "891479829167",
+      "logo": {
+        "crop_mask": {
+          "top_left": {
+            "x": 0,
+            "y": 0
+          },
+          "width": 2160,
+          "height": 1080
+        },
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?auto=format%2Ccompress&q=75&sharp=10&s=30b0714ca89509afc2040c87b81622f7",
+          "width": 2160,
+          "height": 1080
+        },
+        "id": "751601039",
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=2ef9259fb20673f90029221705e5baf2",
+        "aspect_ratio": "2",
+        "edge_color": "#e8d8d1",
+        "edge_color_set": true
+      }
+    },
+    {
+      "name": {
+        "text": "Dreamer To Achiever: An Entrepreneur's Guide to Getting Started!",
+        "html": "Dreamer To Achiever: An Entrepreneur&#39;s Guide to Getting Started!"
+      },
+      "description": {
+        "text": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+        "html": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!"
+      },
+      "url": "https://www.eventbrite.com/e/dreamer-to-achiever-an-entrepreneurs-guide-to-getting-started-tickets-891491453937",
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T08:00:00",
+        "utc": "2024-05-14T15:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T09:30:00",
+        "utc": "2024-05-14T16:30:00Z"
+      },
+      "organization_id": "2000273189263",
+      "created": "2024-04-26T08:32:02Z",
+      "changed": "2024-05-15T04:32:47Z",
+      "published": "2024-04-26T08:32:44Z",
+      "capacity": 25,
+      "capacity_is_custom": true,
+      "status": "completed",
+      "currency": "USD",
+      "listed": true,
+      "shareable": true,
+      "invite_only": false,
+      "online_event": false,
+      "show_remaining": false,
+      "tx_time_limit": 1200,
+      "hide_start_date": false,
+      "hide_end_date": false,
+      "locale": "en_US",
+      "is_locked": false,
+      "privacy_setting": "unlocked",
+      "is_series": true,
+      "is_series_parent": false,
+      "inventory_type": "limited",
+      "is_reserved_seating": false,
+      "show_pick_a_seat": false,
+      "show_seatmap_thumbnail": false,
+      "show_colors_in_seatmap_thumbnail": false,
+      "source": "coyote",
+      "is_free": true,
+      "version": null,
+      "summary": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+      "facebook_event_id": null,
+      "logo_id": "751601039",
+      "organizer_id": "78683726383",
+      "venue_id": "210517439",
+      "category_id": "101",
+      "subcategory_id": "1001",
+      "format_id": "9",
+      "id": "891491453937",
+      "resource_uri": "https://www.eventbriteapi.com/v3/events/891491453937/",
+      "is_externally_ticketed": false,
+      "series_id": "891477411937",
+      "logo": {
+        "crop_mask": {
+          "top_left": {
+            "x": 0,
+            "y": 0
+          },
+          "width": 2160,
+          "height": 1080
+        },
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?auto=format%2Ccompress&q=75&sharp=10&s=30b0714ca89509afc2040c87b81622f7",
+          "width": 2160,
+          "height": 1080
+        },
+        "id": "751601039",
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=2ef9259fb20673f90029221705e5baf2",
+        "aspect_ratio": "2",
+        "edge_color": "#e8d8d1",
+        "edge_color_set": true
+      }
+    },
+    {
+      "name": {
+        "text": "Dreamer To Achiever: An Entrepreneur's Guide to Getting Started!",
+        "html": "Dreamer To Achiever: An Entrepreneur&#39;s Guide to Getting Started!"
+      },
+      "description": {
+        "text": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+        "html": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!"
+      },
+      "url": "https://www.eventbrite.com/e/dreamer-to-achiever-an-entrepreneurs-guide-to-getting-started-tickets-891492888227",
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T08:00:00",
+        "utc": "2024-05-14T15:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T09:30:00",
+        "utc": "2024-05-14T16:30:00Z"
+      },
+      "organization_id": "2000273189263",
+      "created": "2024-04-26T08:37:48Z",
+      "changed": "2024-05-15T04:32:47Z",
+      "published": "2024-04-26T14:30:09Z",
+      "capacity": 25,
+      "capacity_is_custom": true,
+      "status": "completed",
+      "currency": "USD",
+      "listed": true,
+      "shareable": true,
+      "invite_only": false,
+      "online_event": false,
+      "show_remaining": false,
+      "tx_time_limit": 1200,
+      "hide_start_date": false,
+      "hide_end_date": false,
+      "locale": "en_US",
+      "is_locked": false,
+      "privacy_setting": "unlocked",
+      "is_series": true,
+      "is_series_parent": false,
+      "inventory_type": "limited",
+      "is_reserved_seating": false,
+      "show_pick_a_seat": false,
+      "show_seatmap_thumbnail": false,
+      "show_colors_in_seatmap_thumbnail": false,
+      "source": "coyote",
+      "is_free": true,
+      "version": null,
+      "summary": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+      "facebook_event_id": null,
+      "logo_id": "751601039",
+      "organizer_id": "78683726383",
+      "venue_id": "210522509",
+      "category_id": "101",
+      "subcategory_id": "1001",
+      "format_id": "9",
+      "id": "891492888227",
+      "resource_uri": "https://www.eventbriteapi.com/v3/events/891492888227/",
+      "is_externally_ticketed": false,
+      "series_id": "891491724747",
+      "logo": {
+        "crop_mask": {
+          "top_left": {
+            "x": 0,
+            "y": 0
+          },
+          "width": 2160,
+          "height": 1080
+        },
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?auto=format%2Ccompress&q=75&sharp=10&s=30b0714ca89509afc2040c87b81622f7",
+          "width": 2160,
+          "height": 1080
+        },
+        "id": "751601039",
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=2ef9259fb20673f90029221705e5baf2",
+        "aspect_ratio": "2",
+        "edge_color": "#e8d8d1",
+        "edge_color_set": true
+      }
+    },
+    {
+      "name": {
+        "text": "Dreamer To Achiever: An Entrepreneur's Guide to Getting Started!",
+        "html": "Dreamer To Achiever: An Entrepreneur&#39;s Guide to Getting Started!"
+      },
+      "description": {
+        "text": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+        "html": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!"
+      },
+      "url": "https://www.eventbrite.com/e/dreamer-to-achiever-an-entrepreneurs-guide-to-getting-started-tickets-891493149007",
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T08:00:00",
+        "utc": "2024-05-14T15:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T09:30:00",
+        "utc": "2024-05-14T16:30:00Z"
+      },
+      "organization_id": "2000273189263",
+      "created": "2024-04-26T08:38:40Z",
+      "changed": "2024-05-15T04:32:47Z",
+      "published": "2024-04-26T14:38:01Z",
+      "capacity": 25,
+      "capacity_is_custom": true,
+      "status": "completed",
+      "currency": "USD",
+      "listed": true,
+      "shareable": true,
+      "invite_only": false,
+      "online_event": false,
+      "show_remaining": false,
+      "tx_time_limit": 1200,
+      "hide_start_date": false,
+      "hide_end_date": false,
+      "locale": "en_US",
+      "is_locked": false,
+      "privacy_setting": "unlocked",
+      "is_series": true,
+      "is_series_parent": false,
+      "inventory_type": "limited",
+      "is_reserved_seating": false,
+      "show_pick_a_seat": false,
+      "show_seatmap_thumbnail": false,
+      "show_colors_in_seatmap_thumbnail": false,
+      "source": "coyote",
+      "is_free": true,
+      "version": null,
+      "summary": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+      "facebook_event_id": null,
+      "logo_id": "751601039",
+      "organizer_id": "78683726383",
+      "venue_id": "210522549",
+      "category_id": "101",
+      "subcategory_id": "1001",
+      "format_id": "9",
+      "id": "891493149007",
+      "resource_uri": "https://www.eventbriteapi.com/v3/events/891493149007/",
+      "is_externally_ticketed": false,
+      "series_id": "891491744807",
+      "logo": {
+        "crop_mask": {
+          "top_left": {
+            "x": 0,
+            "y": 0
+          },
+          "width": 2160,
+          "height": 1080
+        },
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?auto=format%2Ccompress&q=75&sharp=10&s=30b0714ca89509afc2040c87b81622f7",
+          "width": 2160,
+          "height": 1080
+        },
+        "id": "751601039",
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=2ef9259fb20673f90029221705e5baf2",
+        "aspect_ratio": "2",
+        "edge_color": "#e8d8d1",
+        "edge_color_set": true
+      }
+    },
+    {
+      "name": {
+        "text": "Dreamer To Achiever: An Entrepreneur's Guide to Getting Started!",
+        "html": "Dreamer To Achiever: An Entrepreneur&#39;s Guide to Getting Started!"
+      },
+      "description": {
+        "text": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+        "html": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!"
+      },
+      "url": "https://www.eventbrite.com/e/dreamer-to-achiever-an-entrepreneurs-guide-to-getting-started-tickets-891493560237",
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T08:00:00",
+        "utc": "2024-05-14T15:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T09:30:00",
+        "utc": "2024-05-14T16:30:00Z"
+      },
+      "organization_id": "2000273189263",
+      "created": "2024-04-26T08:39:39Z",
+      "changed": "2024-05-15T04:32:46Z",
+      "published": "2024-04-26T14:41:18Z",
+      "capacity": 25,
+      "capacity_is_custom": true,
+      "status": "completed",
+      "currency": "USD",
+      "listed": true,
+      "shareable": true,
+      "invite_only": false,
+      "online_event": false,
+      "show_remaining": false,
+      "tx_time_limit": 1200,
+      "hide_start_date": false,
+      "hide_end_date": false,
+      "locale": "en_US",
+      "is_locked": false,
+      "privacy_setting": "unlocked",
+      "is_series": true,
+      "is_series_parent": false,
+      "inventory_type": "limited",
+      "is_reserved_seating": false,
+      "show_pick_a_seat": false,
+      "show_seatmap_thumbnail": false,
+      "show_colors_in_seatmap_thumbnail": false,
+      "source": "coyote",
+      "is_free": true,
+      "version": null,
+      "summary": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+      "facebook_event_id": null,
+      "logo_id": "751601039",
+      "organizer_id": "78683726383",
+      "venue_id": "210522589",
+      "category_id": "101",
+      "subcategory_id": "1001",
+      "format_id": "9",
+      "id": "891493560237",
+      "resource_uri": "https://www.eventbriteapi.com/v3/events/891493560237/",
+      "is_externally_ticketed": false,
+      "series_id": "891491774897",
+      "logo": {
+        "crop_mask": {
+          "top_left": {
+            "x": 0,
+            "y": 0
+          },
+          "width": 2160,
+          "height": 1080
+        },
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?auto=format%2Ccompress&q=75&sharp=10&s=30b0714ca89509afc2040c87b81622f7",
+          "width": 2160,
+          "height": 1080
+        },
+        "id": "751601039",
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=2ef9259fb20673f90029221705e5baf2",
+        "aspect_ratio": "2",
+        "edge_color": "#e8d8d1",
+        "edge_color_set": true
+      }
+    },
+    {
+      "name": {
+        "text": "Dreamer To Achiever: An Entrepreneur's Guide to Getting Started!",
+        "html": "Dreamer To Achiever: An Entrepreneur&#39;s Guide to Getting Started!"
+      },
+      "description": {
+        "text": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+        "html": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!"
+      },
+      "url": "https://www.eventbrite.com/e/dreamer-to-achiever-an-entrepreneurs-guide-to-getting-started-tickets-891493780897",
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T08:00:00",
+        "utc": "2024-05-14T15:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T09:30:00",
+        "utc": "2024-05-14T16:30:00Z"
+      },
+      "organization_id": "2000273189263",
+      "created": "2024-04-26T08:40:28Z",
+      "changed": "2024-05-15T04:32:46Z",
+      "published": "2024-04-26T14:46:07Z",
+      "capacity": 25,
+      "capacity_is_custom": true,
+      "status": "completed",
+      "currency": "USD",
+      "listed": true,
+      "shareable": true,
+      "invite_only": false,
+      "online_event": false,
+      "show_remaining": false,
+      "tx_time_limit": 1200,
+      "hide_start_date": false,
+      "hide_end_date": false,
+      "locale": "en_US",
+      "is_locked": false,
+      "privacy_setting": "unlocked",
+      "is_series": true,
+      "is_series_parent": false,
+      "inventory_type": "limited",
+      "is_reserved_seating": false,
+      "show_pick_a_seat": false,
+      "show_seatmap_thumbnail": false,
+      "show_colors_in_seatmap_thumbnail": false,
+      "source": "coyote",
+      "is_free": true,
+      "version": null,
+      "summary": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+      "facebook_event_id": null,
+      "logo_id": "751601039",
+      "organizer_id": "78683726383",
+      "venue_id": "210522619",
+      "category_id": "101",
+      "subcategory_id": "1001",
+      "format_id": "9",
+      "id": "891493780897",
+      "resource_uri": "https://www.eventbriteapi.com/v3/events/891493780897/",
+      "is_externally_ticketed": false,
+      "series_id": "891491794957",
+      "logo": {
+        "crop_mask": {
+          "top_left": {
+            "x": 0,
+            "y": 0
+          },
+          "width": 2160,
+          "height": 1080
+        },
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?auto=format%2Ccompress&q=75&sharp=10&s=30b0714ca89509afc2040c87b81622f7",
+          "width": 2160,
+          "height": 1080
+        },
+        "id": "751601039",
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=2ef9259fb20673f90029221705e5baf2",
+        "aspect_ratio": "2",
+        "edge_color": "#e8d8d1",
+        "edge_color_set": true
+      }
+    },
+    {
+      "name": {
+        "text": "Dreamer To Achiever: An Entrepreneur's Guide to Getting Started!",
+        "html": "Dreamer To Achiever: An Entrepreneur&#39;s Guide to Getting Started!"
+      },
+      "description": {
+        "text": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+        "html": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!"
+      },
+      "url": "https://www.eventbrite.com/e/dreamer-to-achiever-an-entrepreneurs-guide-to-getting-started-tickets-891494081797",
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T08:00:00",
+        "utc": "2024-05-14T15:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T09:30:00",
+        "utc": "2024-05-14T16:30:00Z"
+      },
+      "organization_id": "2000273189263",
+      "created": "2024-04-26T08:41:14Z",
+      "changed": "2024-05-15T04:32:46Z",
+      "published": "2024-04-26T14:50:21Z",
+      "capacity": 25,
+      "capacity_is_custom": true,
+      "status": "completed",
+      "currency": "USD",
+      "listed": true,
+      "shareable": true,
+      "invite_only": false,
+      "online_event": false,
+      "show_remaining": false,
+      "tx_time_limit": 1200,
+      "hide_start_date": false,
+      "hide_end_date": false,
+      "locale": "en_US",
+      "is_locked": false,
+      "privacy_setting": "unlocked",
+      "is_series": true,
+      "is_series_parent": false,
+      "inventory_type": "limited",
+      "is_reserved_seating": false,
+      "show_pick_a_seat": false,
+      "show_seatmap_thumbnail": false,
+      "show_colors_in_seatmap_thumbnail": false,
+      "source": "coyote",
+      "is_free": true,
+      "version": null,
+      "summary": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+      "facebook_event_id": null,
+      "logo_id": "751601039",
+      "organizer_id": "78683726383",
+      "venue_id": "210522689",
+      "category_id": "101",
+      "subcategory_id": "1001",
+      "format_id": "9",
+      "id": "891494081797",
+      "resource_uri": "https://www.eventbriteapi.com/v3/events/891494081797/",
+      "is_externally_ticketed": false,
+      "series_id": "891491804987",
+      "logo": {
+        "crop_mask": {
+          "top_left": {
+            "x": 0,
+            "y": 0
+          },
+          "width": 2160,
+          "height": 1080
+        },
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?auto=format%2Ccompress&q=75&sharp=10&s=30b0714ca89509afc2040c87b81622f7",
+          "width": 2160,
+          "height": 1080
+        },
+        "id": "751601039",
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=2ef9259fb20673f90029221705e5baf2",
+        "aspect_ratio": "2",
+        "edge_color": "#e8d8d1",
+        "edge_color_set": true
+      }
+    },
+    {
+      "name": {
+        "text": "Dreamer To Achiever: An Entrepreneur's Guide to Getting Started!",
+        "html": "Dreamer To Achiever: An Entrepreneur&#39;s Guide to Getting Started!"
+      },
+      "description": {
+        "text": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+        "html": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!"
+      },
+      "url": "https://www.eventbrite.com/e/dreamer-to-achiever-an-entrepreneurs-guide-to-getting-started-tickets-891498123887",
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T08:00:00",
+        "utc": "2024-05-14T15:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T09:30:00",
+        "utc": "2024-05-14T16:30:00Z"
+      },
+      "organization_id": "2000273189263",
+      "created": "2024-04-26T08:49:28Z",
+      "changed": "2024-05-15T04:32:45Z",
+      "published": "2024-04-26T15:31:08Z",
+      "capacity": 25,
+      "capacity_is_custom": true,
+      "status": "completed",
+      "currency": "USD",
+      "listed": true,
+      "shareable": true,
+      "invite_only": false,
+      "online_event": false,
+      "show_remaining": false,
+      "tx_time_limit": 1200,
+      "hide_start_date": false,
+      "hide_end_date": false,
+      "locale": "en_US",
+      "is_locked": false,
+      "privacy_setting": "unlocked",
+      "is_series": true,
+      "is_series_parent": false,
+      "inventory_type": "limited",
+      "is_reserved_seating": false,
+      "show_pick_a_seat": false,
+      "show_seatmap_thumbnail": false,
+      "show_colors_in_seatmap_thumbnail": false,
+      "source": "coyote",
+      "is_free": true,
+      "version": null,
+      "summary": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+      "facebook_event_id": null,
+      "logo_id": "751601039",
+      "organizer_id": "78683726383",
+      "venue_id": "210523909",
+      "category_id": "101",
+      "subcategory_id": "1001",
+      "format_id": "9",
+      "id": "891498123887",
+      "resource_uri": "https://www.eventbriteapi.com/v3/events/891498123887/",
+      "is_externally_ticketed": false,
+      "series_id": "891496137947",
+      "logo": {
+        "crop_mask": {
+          "top_left": {
+            "x": 0,
+            "y": 0
+          },
+          "width": 2160,
+          "height": 1080
+        },
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?auto=format%2Ccompress&q=75&sharp=10&s=30b0714ca89509afc2040c87b81622f7",
+          "width": 2160,
+          "height": 1080
+        },
+        "id": "751601039",
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=2ef9259fb20673f90029221705e5baf2",
+        "aspect_ratio": "2",
+        "edge_color": "#e8d8d1",
+        "edge_color_set": true
+      }
+    },
+    {
+      "name": {
+        "text": "Dreamer To Achiever: An Entrepreneur's Guide to Getting Started!",
+        "html": "Dreamer To Achiever: An Entrepreneur&#39;s Guide to Getting Started!"
+      },
+      "description": {
+        "text": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+        "html": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!"
+      },
+      "url": "https://www.eventbrite.com/e/dreamer-to-achiever-an-entrepreneurs-guide-to-getting-started-tickets-891498284367",
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T08:00:00",
+        "utc": "2024-05-14T15:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T09:30:00",
+        "utc": "2024-05-14T16:30:00Z"
+      },
+      "organization_id": "2000273189263",
+      "created": "2024-04-26T08:49:48Z",
+      "changed": "2024-05-15T04:32:45Z",
+      "published": "2024-04-26T15:17:37Z",
+      "capacity": 25,
+      "capacity_is_custom": true,
+      "status": "completed",
+      "currency": "USD",
+      "listed": true,
+      "shareable": true,
+      "invite_only": false,
+      "online_event": false,
+      "show_remaining": false,
+      "tx_time_limit": 1200,
+      "hide_start_date": false,
+      "hide_end_date": false,
+      "locale": "en_US",
+      "is_locked": false,
+      "privacy_setting": "unlocked",
+      "is_series": true,
+      "is_series_parent": false,
+      "inventory_type": "limited",
+      "is_reserved_seating": false,
+      "show_pick_a_seat": false,
+      "show_seatmap_thumbnail": false,
+      "show_colors_in_seatmap_thumbnail": false,
+      "source": "coyote",
+      "is_free": true,
+      "version": null,
+      "summary": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+      "facebook_event_id": null,
+      "logo_id": "751601039",
+      "organizer_id": "78683726383",
+      "venue_id": "210523689",
+      "category_id": "101",
+      "subcategory_id": "1001",
+      "format_id": "9",
+      "id": "891498284367",
+      "resource_uri": "https://www.eventbriteapi.com/v3/events/891498284367/",
+      "is_externally_ticketed": false,
+      "series_id": "891496087797",
+      "logo": {
+        "crop_mask": {
+          "top_left": {
+            "x": 0,
+            "y": 0
+          },
+          "width": 2160,
+          "height": 1080
+        },
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?auto=format%2Ccompress&q=75&sharp=10&s=30b0714ca89509afc2040c87b81622f7",
+          "width": 2160,
+          "height": 1080
+        },
+        "id": "751601039",
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=2ef9259fb20673f90029221705e5baf2",
+        "aspect_ratio": "2",
+        "edge_color": "#e8d8d1",
+        "edge_color_set": true
+      }
+    },
+    {
+      "name": {
+        "text": "Dreamer To Achiever: An Entrepreneur's Guide to Getting Started!",
+        "html": "Dreamer To Achiever: An Entrepreneur&#39;s Guide to Getting Started!"
+      },
+      "description": {
+        "text": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+        "html": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!"
+      },
+      "url": "https://www.eventbrite.com/e/dreamer-to-achiever-an-entrepreneurs-guide-to-getting-started-tickets-891498324487",
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T08:00:00",
+        "utc": "2024-05-14T15:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T09:30:00",
+        "utc": "2024-05-14T16:30:00Z"
+      },
+      "organization_id": "2000273189263",
+      "created": "2024-04-26T08:49:58Z",
+      "changed": "2024-05-15T04:32:45Z",
+      "published": "2024-04-26T15:21:33Z",
+      "capacity": 25,
+      "capacity_is_custom": true,
+      "status": "completed",
+      "currency": "USD",
+      "listed": true,
+      "shareable": true,
+      "invite_only": false,
+      "online_event": false,
+      "show_remaining": false,
+      "tx_time_limit": 1200,
+      "hide_start_date": false,
+      "hide_end_date": false,
+      "locale": "en_US",
+      "is_locked": false,
+      "privacy_setting": "unlocked",
+      "is_series": true,
+      "is_series_parent": false,
+      "inventory_type": "limited",
+      "is_reserved_seating": false,
+      "show_pick_a_seat": false,
+      "show_seatmap_thumbnail": false,
+      "show_colors_in_seatmap_thumbnail": false,
+      "source": "coyote",
+      "is_free": true,
+      "version": null,
+      "summary": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+      "facebook_event_id": null,
+      "logo_id": "751601039",
+      "organizer_id": "78683726383",
+      "venue_id": "210523709",
+      "category_id": "101",
+      "subcategory_id": "1001",
+      "format_id": "9",
+      "id": "891498324487",
+      "resource_uri": "https://www.eventbriteapi.com/v3/events/891498324487/",
+      "is_externally_ticketed": false,
+      "series_id": "891496097827",
+      "logo": {
+        "crop_mask": {
+          "top_left": {
+            "x": 0,
+            "y": 0
+          },
+          "width": 2160,
+          "height": 1080
+        },
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?auto=format%2Ccompress&q=75&sharp=10&s=30b0714ca89509afc2040c87b81622f7",
+          "width": 2160,
+          "height": 1080
+        },
+        "id": "751601039",
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=2ef9259fb20673f90029221705e5baf2",
+        "aspect_ratio": "2",
+        "edge_color": "#e8d8d1",
+        "edge_color_set": true
+      }
+    },
+    {
+      "name": {
+        "text": "Dreamer To Achiever: An Entrepreneur's Guide to Getting Started!",
+        "html": "Dreamer To Achiever: An Entrepreneur&#39;s Guide to Getting Started!"
+      },
+      "description": {
+        "text": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+        "html": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!"
+      },
+      "url": "https://www.eventbrite.com/e/dreamer-to-achiever-an-entrepreneurs-guide-to-getting-started-tickets-891498665507",
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T08:00:00",
+        "utc": "2024-05-14T15:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T09:30:00",
+        "utc": "2024-05-14T16:30:00Z"
+      },
+      "organization_id": "2000273189263",
+      "created": "2024-04-26T08:50:29Z",
+      "changed": "2024-05-15T04:32:45Z",
+      "published": "2024-04-26T15:08:52Z",
+      "capacity": 25,
+      "capacity_is_custom": true,
+      "status": "completed",
+      "currency": "USD",
+      "listed": true,
+      "shareable": true,
+      "invite_only": false,
+      "online_event": false,
+      "show_remaining": false,
+      "tx_time_limit": 1200,
+      "hide_start_date": false,
+      "hide_end_date": false,
+      "locale": "en_US",
+      "is_locked": false,
+      "privacy_setting": "unlocked",
+      "is_series": true,
+      "is_series_parent": false,
+      "inventory_type": "limited",
+      "is_reserved_seating": false,
+      "show_pick_a_seat": false,
+      "show_seatmap_thumbnail": false,
+      "show_colors_in_seatmap_thumbnail": false,
+      "source": "coyote",
+      "is_free": true,
+      "version": null,
+      "summary": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+      "facebook_event_id": null,
+      "logo_id": "751601039",
+      "organizer_id": "78683726383",
+      "venue_id": "210523649",
+      "category_id": "101",
+      "subcategory_id": "1001",
+      "format_id": "9",
+      "id": "891498665507",
+      "resource_uri": "https://www.eventbriteapi.com/v3/events/891498665507/",
+      "is_externally_ticketed": false,
+      "series_id": "891496077767",
+      "logo": {
+        "crop_mask": {
+          "top_left": {
+            "x": 0,
+            "y": 0
+          },
+          "width": 2160,
+          "height": 1080
+        },
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?auto=format%2Ccompress&q=75&sharp=10&s=30b0714ca89509afc2040c87b81622f7",
+          "width": 2160,
+          "height": 1080
+        },
+        "id": "751601039",
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=2ef9259fb20673f90029221705e5baf2",
+        "aspect_ratio": "2",
+        "edge_color": "#e8d8d1",
+        "edge_color_set": true
+      }
+    },
+    {
+      "name": {
+        "text": "Dreamer To Achiever: An Entrepreneur's Guide to Getting Started!",
+        "html": "Dreamer To Achiever: An Entrepreneur&#39;s Guide to Getting Started!"
+      },
+      "description": {
+        "text": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+        "html": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!"
+      },
+      "url": "https://www.eventbrite.com/e/dreamer-to-achiever-an-entrepreneurs-guide-to-getting-started-tickets-891498815957",
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T08:00:00",
+        "utc": "2024-05-14T15:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T09:30:00",
+        "utc": "2024-05-14T16:30:00Z"
+      },
+      "organization_id": "2000273189263",
+      "created": "2024-04-26T08:50:43Z",
+      "changed": "2024-05-15T04:32:45Z",
+      "published": "2024-04-26T15:23:51Z",
+      "capacity": 25,
+      "capacity_is_custom": true,
+      "status": "completed",
+      "currency": "USD",
+      "listed": true,
+      "shareable": true,
+      "invite_only": false,
+      "online_event": false,
+      "show_remaining": false,
+      "tx_time_limit": 1200,
+      "hide_start_date": false,
+      "hide_end_date": false,
+      "locale": "en_US",
+      "is_locked": false,
+      "privacy_setting": "unlocked",
+      "is_series": true,
+      "is_series_parent": false,
+      "inventory_type": "limited",
+      "is_reserved_seating": false,
+      "show_pick_a_seat": false,
+      "show_seatmap_thumbnail": false,
+      "show_colors_in_seatmap_thumbnail": false,
+      "source": "coyote",
+      "is_free": true,
+      "version": null,
+      "summary": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+      "facebook_event_id": null,
+      "logo_id": "751601039",
+      "organizer_id": "78683726383",
+      "venue_id": "210523739",
+      "category_id": "101",
+      "subcategory_id": "1001",
+      "format_id": "9",
+      "id": "891498815957",
+      "resource_uri": "https://www.eventbriteapi.com/v3/events/891498815957/",
+      "is_externally_ticketed": false,
+      "series_id": "891496117887",
+      "logo": {
+        "crop_mask": {
+          "top_left": {
+            "x": 0,
+            "y": 0
+          },
+          "width": 2160,
+          "height": 1080
+        },
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?auto=format%2Ccompress&q=75&sharp=10&s=30b0714ca89509afc2040c87b81622f7",
+          "width": 2160,
+          "height": 1080
+        },
+        "id": "751601039",
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=2ef9259fb20673f90029221705e5baf2",
+        "aspect_ratio": "2",
+        "edge_color": "#e8d8d1",
+        "edge_color_set": true
+      }
+    },
+    {
+      "name": {
+        "text": "Dreamer To Achiever: An Entrepreneur's Guide to Getting Started!",
+        "html": "Dreamer To Achiever: An Entrepreneur&#39;s Guide to Getting Started!"
+      },
+      "description": {
+        "text": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+        "html": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!"
+      },
+      "url": "https://www.eventbrite.com/e/dreamer-to-achiever-an-entrepreneurs-guide-to-getting-started-tickets-891503269277",
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T08:00:00",
+        "utc": "2024-05-14T15:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T09:30:00",
+        "utc": "2024-05-14T16:30:00Z"
+      },
+      "organization_id": "2000273189263",
+      "created": "2024-04-26T09:01:37Z",
+      "changed": "2024-05-15T04:32:43Z",
+      "published": "2024-04-26T15:59:43Z",
+      "capacity": 25,
+      "capacity_is_custom": true,
+      "status": "completed",
+      "currency": "USD",
+      "listed": true,
+      "shareable": true,
+      "invite_only": false,
+      "online_event": false,
+      "show_remaining": false,
+      "tx_time_limit": 1200,
+      "hide_start_date": false,
+      "hide_end_date": false,
+      "locale": "en_US",
+      "is_locked": false,
+      "privacy_setting": "unlocked",
+      "is_series": true,
+      "is_series_parent": false,
+      "inventory_type": "limited",
+      "is_reserved_seating": false,
+      "show_pick_a_seat": false,
+      "show_seatmap_thumbnail": false,
+      "show_colors_in_seatmap_thumbnail": false,
+      "source": "coyote",
+      "is_free": true,
+      "version": null,
+      "summary": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+      "facebook_event_id": null,
+      "logo_id": "751601039",
+      "organizer_id": "78683726383",
+      "venue_id": "210525049",
+      "category_id": "101",
+      "subcategory_id": "1001",
+      "format_id": "9",
+      "id": "891503269277",
+      "resource_uri": "https://www.eventbriteapi.com/v3/events/891503269277/",
+      "is_externally_ticketed": false,
+      "series_id": "891500852047",
+      "logo": {
+        "crop_mask": {
+          "top_left": {
+            "x": 0,
+            "y": 0
+          },
+          "width": 2160,
+          "height": 1080
+        },
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?auto=format%2Ccompress&q=75&sharp=10&s=30b0714ca89509afc2040c87b81622f7",
+          "width": 2160,
+          "height": 1080
+        },
+        "id": "751601039",
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=2ef9259fb20673f90029221705e5baf2",
+        "aspect_ratio": "2",
+        "edge_color": "#e8d8d1",
+        "edge_color_set": true
+      }
+    },
+    {
+      "name": {
+        "text": "Dreamer To Achiever: An Entrepreneur's Guide to Getting Started!",
+        "html": "Dreamer To Achiever: An Entrepreneur&#39;s Guide to Getting Started!"
+      },
+      "description": {
+        "text": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+        "html": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!"
+      },
+      "url": "https://www.eventbrite.com/e/dreamer-to-achiever-an-entrepreneurs-guide-to-getting-started-tickets-891503389637",
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T08:00:00",
+        "utc": "2024-05-14T15:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T09:30:00",
+        "utc": "2024-05-14T16:30:00Z"
+      },
+      "organization_id": "2000273189263",
+      "created": "2024-04-26T09:01:56Z",
+      "changed": "2024-05-15T04:32:43Z",
+      "published": "2024-04-26T16:03:16Z",
+      "capacity": 25,
+      "capacity_is_custom": true,
+      "status": "completed",
+      "currency": "USD",
+      "listed": true,
+      "shareable": true,
+      "invite_only": false,
+      "online_event": false,
+      "show_remaining": false,
+      "tx_time_limit": 1200,
+      "hide_start_date": false,
+      "hide_end_date": false,
+      "locale": "en_US",
+      "is_locked": false,
+      "privacy_setting": "unlocked",
+      "is_series": true,
+      "is_series_parent": false,
+      "inventory_type": "limited",
+      "is_reserved_seating": false,
+      "show_pick_a_seat": false,
+      "show_seatmap_thumbnail": false,
+      "show_colors_in_seatmap_thumbnail": false,
+      "source": "coyote",
+      "is_free": true,
+      "version": null,
+      "summary": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+      "facebook_event_id": null,
+      "logo_id": "751601039",
+      "organizer_id": "78683726383",
+      "venue_id": "210525069",
+      "category_id": "101",
+      "subcategory_id": "1001",
+      "format_id": "9",
+      "id": "891503389637",
+      "resource_uri": "https://www.eventbriteapi.com/v3/events/891503389637/",
+      "is_externally_ticketed": false,
+      "series_id": "891501012527",
+      "logo": {
+        "crop_mask": {
+          "top_left": {
+            "x": 0,
+            "y": 0
+          },
+          "width": 2160,
+          "height": 1080
+        },
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?auto=format%2Ccompress&q=75&sharp=10&s=30b0714ca89509afc2040c87b81622f7",
+          "width": 2160,
+          "height": 1080
+        },
+        "id": "751601039",
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=2ef9259fb20673f90029221705e5baf2",
+        "aspect_ratio": "2",
+        "edge_color": "#e8d8d1",
+        "edge_color_set": true
+      }
+    },
+    {
+      "name": {
+        "text": "Dreamer To Achiever: An Entrepreneur's Guide to Getting Started!",
+        "html": "Dreamer To Achiever: An Entrepreneur&#39;s Guide to Getting Started!"
+      },
+      "description": {
+        "text": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+        "html": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!"
+      },
+      "url": "https://www.eventbrite.com/e/dreamer-to-achiever-an-entrepreneurs-guide-to-getting-started-tickets-891503540087",
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T08:00:00",
+        "utc": "2024-05-14T15:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T09:30:00",
+        "utc": "2024-05-14T16:30:00Z"
+      },
+      "organization_id": "2000273189263",
+      "created": "2024-04-26T09:02:13Z",
+      "changed": "2024-05-15T04:32:43Z",
+      "published": "2024-04-26T16:10:24Z",
+      "capacity": 25,
+      "capacity_is_custom": true,
+      "status": "completed",
+      "currency": "USD",
+      "listed": true,
+      "shareable": true,
+      "invite_only": false,
+      "online_event": false,
+      "show_remaining": false,
+      "tx_time_limit": 1200,
+      "hide_start_date": false,
+      "hide_end_date": false,
+      "locale": "en_US",
+      "is_locked": false,
+      "privacy_setting": "unlocked",
+      "is_series": true,
+      "is_series_parent": false,
+      "inventory_type": "limited",
+      "is_reserved_seating": false,
+      "show_pick_a_seat": false,
+      "show_seatmap_thumbnail": false,
+      "show_colors_in_seatmap_thumbnail": false,
+      "source": "coyote",
+      "is_free": true,
+      "version": null,
+      "summary": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+      "facebook_event_id": null,
+      "logo_id": "751601039",
+      "organizer_id": "78683726383",
+      "venue_id": "210525089",
+      "category_id": "101",
+      "subcategory_id": "1001",
+      "format_id": "9",
+      "id": "891503540087",
+      "resource_uri": "https://www.eventbriteapi.com/v3/events/891503540087/",
+      "is_externally_ticketed": false,
+      "series_id": "891501082737",
+      "logo": {
+        "crop_mask": {
+          "top_left": {
+            "x": 0,
+            "y": 0
+          },
+          "width": 2160,
+          "height": 1080
+        },
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?auto=format%2Ccompress&q=75&sharp=10&s=30b0714ca89509afc2040c87b81622f7",
+          "width": 2160,
+          "height": 1080
+        },
+        "id": "751601039",
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=2ef9259fb20673f90029221705e5baf2",
+        "aspect_ratio": "2",
+        "edge_color": "#e8d8d1",
+        "edge_color_set": true
+      }
+    },
+    {
+      "name": {
+        "text": "Dreamer To Achiever: An Entrepreneur's Guide to Getting Started!",
+        "html": "Dreamer To Achiever: An Entrepreneur&#39;s Guide to Getting Started!"
+      },
+      "description": {
+        "text": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+        "html": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!"
+      },
+      "url": "https://www.eventbrite.com/e/dreamer-to-achiever-an-entrepreneurs-guide-to-getting-started-tickets-891503640387",
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T08:00:00",
+        "utc": "2024-05-14T15:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T09:30:00",
+        "utc": "2024-05-14T16:30:00Z"
+      },
+      "organization_id": "2000273189263",
+      "created": "2024-04-26T09:02:41Z",
+      "changed": "2024-05-15T04:32:44Z",
+      "published": "2024-04-26T16:16:18Z",
+      "capacity": 25,
+      "capacity_is_custom": true,
+      "status": "completed",
+      "currency": "USD",
+      "listed": true,
+      "shareable": true,
+      "invite_only": false,
+      "online_event": false,
+      "show_remaining": false,
+      "tx_time_limit": 1200,
+      "hide_start_date": false,
+      "hide_end_date": false,
+      "locale": "en_US",
+      "is_locked": false,
+      "privacy_setting": "unlocked",
+      "is_series": true,
+      "is_series_parent": false,
+      "inventory_type": "limited",
+      "is_reserved_seating": false,
+      "show_pick_a_seat": false,
+      "show_seatmap_thumbnail": false,
+      "show_colors_in_seatmap_thumbnail": false,
+      "source": "coyote",
+      "is_free": true,
+      "version": null,
+      "summary": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+      "facebook_event_id": null,
+      "logo_id": "751601039",
+      "organizer_id": "78683726383",
+      "venue_id": "210525139",
+      "category_id": "101",
+      "subcategory_id": "1001",
+      "format_id": "9",
+      "id": "891503640387",
+      "resource_uri": "https://www.eventbriteapi.com/v3/events/891503640387/",
+      "is_externally_ticketed": false,
+      "series_id": "891501132887",
+      "logo": {
+        "crop_mask": {
+          "top_left": {
+            "x": 0,
+            "y": 0
+          },
+          "width": 2160,
+          "height": 1080
+        },
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?auto=format%2Ccompress&q=75&sharp=10&s=30b0714ca89509afc2040c87b81622f7",
+          "width": 2160,
+          "height": 1080
+        },
+        "id": "751601039",
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=2ef9259fb20673f90029221705e5baf2",
+        "aspect_ratio": "2",
+        "edge_color": "#e8d8d1",
+        "edge_color_set": true
+      }
+    },
+    {
+      "name": {
+        "text": "Dreamer To Achiever: An Entrepreneur's Guide to Getting Started!",
+        "html": "Dreamer To Achiever: An Entrepreneur&#39;s Guide to Getting Started!"
+      },
+      "description": {
+        "text": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+        "html": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!"
+      },
+      "url": "https://www.eventbrite.com/e/dreamer-to-achiever-an-entrepreneurs-guide-to-getting-started-tickets-891503901167",
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T08:00:00",
+        "utc": "2024-05-14T15:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T09:30:00",
+        "utc": "2024-05-14T16:30:00Z"
+      },
+      "organization_id": "2000273189263",
+      "created": "2024-04-26T09:03:21Z",
+      "changed": "2024-05-15T04:32:44Z",
+      "published": "2024-04-26T16:21:57Z",
+      "capacity": 25,
+      "capacity_is_custom": true,
+      "status": "completed",
+      "currency": "USD",
+      "listed": true,
+      "shareable": true,
+      "invite_only": false,
+      "online_event": false,
+      "show_remaining": false,
+      "tx_time_limit": 1200,
+      "hide_start_date": false,
+      "hide_end_date": false,
+      "locale": "en_US",
+      "is_locked": false,
+      "privacy_setting": "unlocked",
+      "is_series": true,
+      "is_series_parent": false,
+      "inventory_type": "limited",
+      "is_reserved_seating": false,
+      "show_pick_a_seat": false,
+      "show_seatmap_thumbnail": false,
+      "show_colors_in_seatmap_thumbnail": false,
+      "source": "coyote",
+      "is_free": true,
+      "version": null,
+      "summary": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+      "facebook_event_id": null,
+      "logo_id": "751601039",
+      "organizer_id": "78683726383",
+      "venue_id": "210525169",
+      "category_id": "101",
+      "subcategory_id": "1001",
+      "format_id": "9",
+      "id": "891503901167",
+      "resource_uri": "https://www.eventbriteapi.com/v3/events/891503901167/",
+      "is_externally_ticketed": false,
+      "series_id": "891501142917",
+      "logo": {
+        "crop_mask": {
+          "top_left": {
+            "x": 0,
+            "y": 0
+          },
+          "width": 2160,
+          "height": 1080
+        },
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?auto=format%2Ccompress&q=75&sharp=10&s=30b0714ca89509afc2040c87b81622f7",
+          "width": 2160,
+          "height": 1080
+        },
+        "id": "751601039",
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=2ef9259fb20673f90029221705e5baf2",
+        "aspect_ratio": "2",
+        "edge_color": "#e8d8d1",
+        "edge_color_set": true
+      }
+    },
+    {
+      "name": {
+        "text": "Dreamer To Achiever: An Entrepreneur's Guide to Getting Started!",
+        "html": "Dreamer To Achiever: An Entrepreneur&#39;s Guide to Getting Started!"
+      },
+      "description": {
+        "text": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+        "html": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!"
+      },
+      "url": "https://www.eventbrite.com/e/dreamer-to-achiever-an-entrepreneurs-guide-to-getting-started-tickets-892048540197",
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T08:00:00",
+        "utc": "2024-05-14T15:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T09:30:00",
+        "utc": "2024-05-14T16:30:00Z"
+      },
+      "organization_id": "2000273189263",
+      "created": "2024-04-27T01:26:57Z",
+      "changed": "2024-05-15T16:38:37Z",
+      "published": "2024-04-27T12:04:19Z",
+      "capacity": 25,
+      "capacity_is_custom": true,
+      "status": "completed",
+      "currency": "USD",
+      "listed": true,
+      "shareable": true,
+      "invite_only": false,
+      "online_event": false,
+      "show_remaining": false,
+      "tx_time_limit": 1200,
+      "hide_start_date": false,
+      "hide_end_date": false,
+      "locale": "en_US",
+      "is_locked": false,
+      "privacy_setting": "unlocked",
+      "is_series": true,
+      "is_series_parent": false,
+      "inventory_type": "limited",
+      "is_reserved_seating": false,
+      "show_pick_a_seat": false,
+      "show_seatmap_thumbnail": false,
+      "show_colors_in_seatmap_thumbnail": false,
+      "source": "coyote",
+      "is_free": true,
+      "version": null,
+      "summary": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+      "facebook_event_id": null,
+      "logo_id": "751601039",
+      "organizer_id": "78683726383",
+      "venue_id": "210666109",
+      "category_id": "101",
+      "subcategory_id": "1001",
+      "format_id": "9",
+      "id": "892048540197",
+      "resource_uri": "https://www.eventbriteapi.com/v3/events/892048540197/",
+      "is_externally_ticketed": false,
+      "series_id": "892047998577",
+      "logo": {
+        "crop_mask": {
+          "top_left": {
+            "x": 0,
+            "y": 0
+          },
+          "width": 2160,
+          "height": 1080
+        },
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?auto=format%2Ccompress&q=75&sharp=10&s=30b0714ca89509afc2040c87b81622f7",
+          "width": 2160,
+          "height": 1080
+        },
+        "id": "751601039",
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=2ef9259fb20673f90029221705e5baf2",
+        "aspect_ratio": "2",
+        "edge_color": "#e8d8d1",
+        "edge_color_set": true
+      }
+    },
+    {
+      "name": {
+        "text": "Dreamer To Achiever: An Entrepreneur's Guide to Getting Started!",
+        "html": "Dreamer To Achiever: An Entrepreneur&#39;s Guide to Getting Started!"
+      },
+      "description": {
+        "text": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+        "html": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!"
+      },
+      "url": "https://www.eventbrite.com/e/dreamer-to-achiever-an-entrepreneurs-guide-to-getting-started-tickets-892048570287",
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T08:00:00",
+        "utc": "2024-05-14T15:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T09:30:00",
+        "utc": "2024-05-14T16:30:00Z"
+      },
+      "organization_id": "2000273189263",
+      "created": "2024-04-27T01:27:19Z",
+      "changed": "2024-05-15T16:38:37Z",
+      "published": "2024-04-27T12:09:41Z",
+      "capacity": 25,
+      "capacity_is_custom": true,
+      "status": "completed",
+      "currency": "USD",
+      "listed": true,
+      "shareable": true,
+      "invite_only": false,
+      "online_event": false,
+      "show_remaining": false,
+      "tx_time_limit": 1200,
+      "hide_start_date": false,
+      "hide_end_date": false,
+      "locale": "en_US",
+      "is_locked": false,
+      "privacy_setting": "unlocked",
+      "is_series": true,
+      "is_series_parent": false,
+      "inventory_type": "limited",
+      "is_reserved_seating": false,
+      "show_pick_a_seat": false,
+      "show_seatmap_thumbnail": false,
+      "show_colors_in_seatmap_thumbnail": false,
+      "source": "coyote",
+      "is_free": true,
+      "version": null,
+      "summary": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+      "facebook_event_id": null,
+      "logo_id": "751601039",
+      "organizer_id": "78683726383",
+      "venue_id": "210666129",
+      "category_id": "101",
+      "subcategory_id": "1001",
+      "format_id": "9",
+      "id": "892048570287",
+      "resource_uri": "https://www.eventbriteapi.com/v3/events/892048570287/",
+      "is_externally_ticketed": false,
+      "series_id": "892048008607",
+      "logo": {
+        "crop_mask": {
+          "top_left": {
+            "x": 0,
+            "y": 0
+          },
+          "width": 2160,
+          "height": 1080
+        },
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?auto=format%2Ccompress&q=75&sharp=10&s=30b0714ca89509afc2040c87b81622f7",
+          "width": 2160,
+          "height": 1080
+        },
+        "id": "751601039",
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=2ef9259fb20673f90029221705e5baf2",
+        "aspect_ratio": "2",
+        "edge_color": "#e8d8d1",
+        "edge_color_set": true
+      }
+    },
+    {
+      "name": {
+        "text": "Dreamer To Achiever: An Entrepreneur's Guide to Getting Started!",
+        "html": "Dreamer To Achiever: An Entrepreneur&#39;s Guide to Getting Started!"
+      },
+      "description": {
+        "text": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+        "html": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!"
+      },
+      "url": "https://www.eventbrite.com/e/dreamer-to-achiever-an-entrepreneurs-guide-to-getting-started-tickets-892048590347",
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T08:00:00",
+        "utc": "2024-05-14T15:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T09:30:00",
+        "utc": "2024-05-14T16:30:00Z"
+      },
+      "organization_id": "2000273189263",
+      "created": "2024-04-27T01:27:29Z",
+      "changed": "2024-05-15T16:38:37Z",
+      "published": "2024-04-27T12:20:51Z",
+      "capacity": 25,
+      "capacity_is_custom": true,
+      "status": "completed",
+      "currency": "USD",
+      "listed": true,
+      "shareable": true,
+      "invite_only": false,
+      "online_event": false,
+      "show_remaining": false,
+      "tx_time_limit": 1200,
+      "hide_start_date": false,
+      "hide_end_date": false,
+      "locale": "en_US",
+      "is_locked": false,
+      "privacy_setting": "unlocked",
+      "is_series": true,
+      "is_series_parent": false,
+      "inventory_type": "limited",
+      "is_reserved_seating": false,
+      "show_pick_a_seat": false,
+      "show_seatmap_thumbnail": false,
+      "show_colors_in_seatmap_thumbnail": false,
+      "source": "coyote",
+      "is_free": true,
+      "version": null,
+      "summary": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+      "facebook_event_id": null,
+      "logo_id": "751601039",
+      "organizer_id": "78683726383",
+      "venue_id": "210666149",
+      "category_id": "101",
+      "subcategory_id": "1001",
+      "format_id": "9",
+      "id": "892048590347",
+      "resource_uri": "https://www.eventbriteapi.com/v3/events/892048590347/",
+      "is_externally_ticketed": false,
+      "series_id": "892048038697",
+      "logo": {
+        "crop_mask": {
+          "top_left": {
+            "x": 0,
+            "y": 0
+          },
+          "width": 2160,
+          "height": 1080
+        },
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?auto=format%2Ccompress&q=75&sharp=10&s=30b0714ca89509afc2040c87b81622f7",
+          "width": 2160,
+          "height": 1080
+        },
+        "id": "751601039",
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=2ef9259fb20673f90029221705e5baf2",
+        "aspect_ratio": "2",
+        "edge_color": "#e8d8d1",
+        "edge_color_set": true
+      }
+    },
+    {
+      "name": {
+        "text": "Dreamer To Achiever: An Entrepreneur's Guide to Getting Started!",
+        "html": "Dreamer To Achiever: An Entrepreneur&#39;s Guide to Getting Started!"
+      },
+      "description": {
+        "text": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+        "html": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!"
+      },
+      "url": "https://www.eventbrite.com/e/dreamer-to-achiever-an-entrepreneurs-guide-to-getting-started-tickets-892048610407",
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T08:00:00",
+        "utc": "2024-05-14T15:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T09:30:00",
+        "utc": "2024-05-14T16:30:00Z"
+      },
+      "organization_id": "2000273189263",
+      "created": "2024-04-27T01:27:36Z",
+      "changed": "2024-05-15T16:38:37Z",
+      "published": "2024-04-27T12:22:36Z",
+      "capacity": 25,
+      "capacity_is_custom": true,
+      "status": "completed",
+      "currency": "USD",
+      "listed": true,
+      "shareable": true,
+      "invite_only": false,
+      "online_event": false,
+      "show_remaining": false,
+      "tx_time_limit": 1200,
+      "hide_start_date": false,
+      "hide_end_date": false,
+      "locale": "en_US",
+      "is_locked": false,
+      "privacy_setting": "unlocked",
+      "is_series": true,
+      "is_series_parent": false,
+      "inventory_type": "limited",
+      "is_reserved_seating": false,
+      "show_pick_a_seat": false,
+      "show_seatmap_thumbnail": false,
+      "show_colors_in_seatmap_thumbnail": false,
+      "source": "coyote",
+      "is_free": true,
+      "version": null,
+      "summary": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+      "facebook_event_id": null,
+      "logo_id": "751601039",
+      "organizer_id": "78683726383",
+      "venue_id": "210666159",
+      "category_id": "101",
+      "subcategory_id": "1001",
+      "format_id": "9",
+      "id": "892048610407",
+      "resource_uri": "https://www.eventbriteapi.com/v3/events/892048610407/",
+      "is_externally_ticketed": false,
+      "series_id": "892048048727",
+      "logo": {
+        "crop_mask": {
+          "top_left": {
+            "x": 0,
+            "y": 0
+          },
+          "width": 2160,
+          "height": 1080
+        },
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?auto=format%2Ccompress&q=75&sharp=10&s=30b0714ca89509afc2040c87b81622f7",
+          "width": 2160,
+          "height": 1080
+        },
+        "id": "751601039",
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=2ef9259fb20673f90029221705e5baf2",
+        "aspect_ratio": "2",
+        "edge_color": "#e8d8d1",
+        "edge_color_set": true
+      }
+    },
+    {
+      "name": {
+        "text": "Dreamer To Achiever: An Entrepreneur's Guide to Getting Started!",
+        "html": "Dreamer To Achiever: An Entrepreneur&#39;s Guide to Getting Started!"
+      },
+      "description": {
+        "text": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+        "html": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!"
+      },
+      "url": "https://www.eventbrite.com/e/dreamer-to-achiever-an-entrepreneurs-guide-to-getting-started-tickets-892048720737",
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T08:00:00",
+        "utc": "2024-05-14T15:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T09:30:00",
+        "utc": "2024-05-14T16:30:00Z"
+      },
+      "organization_id": "2000273189263",
+      "created": "2024-04-27T01:28:21Z",
+      "changed": "2024-05-15T16:38:37Z",
+      "published": "2024-04-27T12:16:30Z",
+      "capacity": 25,
+      "capacity_is_custom": true,
+      "status": "completed",
+      "currency": "USD",
+      "listed": true,
+      "shareable": true,
+      "invite_only": false,
+      "online_event": false,
+      "show_remaining": false,
+      "tx_time_limit": 1200,
+      "hide_start_date": false,
+      "hide_end_date": false,
+      "locale": "en_US",
+      "is_locked": false,
+      "privacy_setting": "unlocked",
+      "is_series": true,
+      "is_series_parent": false,
+      "inventory_type": "limited",
+      "is_reserved_seating": false,
+      "show_pick_a_seat": false,
+      "show_seatmap_thumbnail": false,
+      "show_colors_in_seatmap_thumbnail": false,
+      "source": "coyote",
+      "is_free": true,
+      "version": null,
+      "summary": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+      "facebook_event_id": null,
+      "logo_id": "751601039",
+      "organizer_id": "78683726383",
+      "venue_id": "210666119",
+      "category_id": "101",
+      "subcategory_id": "1001",
+      "format_id": "9",
+      "id": "892048720737",
+      "resource_uri": "https://www.eventbriteapi.com/v3/events/892048720737/",
+      "is_externally_ticketed": false,
+      "series_id": "892048028667",
+      "logo": {
+        "crop_mask": {
+          "top_left": {
+            "x": 0,
+            "y": 0
+          },
+          "width": 2160,
+          "height": 1080
+        },
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?auto=format%2Ccompress&q=75&sharp=10&s=30b0714ca89509afc2040c87b81622f7",
+          "width": 2160,
+          "height": 1080
+        },
+        "id": "751601039",
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=2ef9259fb20673f90029221705e5baf2",
+        "aspect_ratio": "2",
+        "edge_color": "#e8d8d1",
+        "edge_color_set": true
+      }
+    },
+    {
+      "name": {
+        "text": "Dreamer To Achiever: An Entrepreneur's Guide to Getting Started!",
+        "html": "Dreamer To Achiever: An Entrepreneur&#39;s Guide to Getting Started!"
+      },
+      "description": {
+        "text": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+        "html": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!"
+      },
+      "url": "https://www.eventbrite.com/e/dreamer-to-achiever-an-entrepreneurs-guide-to-getting-started-tickets-892049814007",
+      "start": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T08:00:00",
+        "utc": "2024-05-14T15:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Los_Angeles",
+        "local": "2024-05-14T09:30:00",
+        "utc": "2024-05-14T16:30:00Z"
+      },
+      "organization_id": "2000273189263",
+      "created": "2024-04-27T01:35:35Z",
+      "changed": "2024-05-15T16:38:36Z",
+      "published": "2024-04-27T12:28:33Z",
+      "capacity": 25,
+      "capacity_is_custom": true,
+      "status": "completed",
+      "currency": "USD",
+      "listed": true,
+      "shareable": true,
+      "invite_only": false,
+      "online_event": false,
+      "show_remaining": false,
+      "tx_time_limit": 1200,
+      "hide_start_date": false,
+      "hide_end_date": false,
+      "locale": "en_US",
+      "is_locked": false,
+      "privacy_setting": "unlocked",
+      "is_series": true,
+      "is_series_parent": false,
+      "inventory_type": "limited",
+      "is_reserved_seating": false,
+      "show_pick_a_seat": false,
+      "show_seatmap_thumbnail": false,
+      "show_colors_in_seatmap_thumbnail": false,
+      "source": "coyote",
+      "is_free": true,
+      "version": null,
+      "summary": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+      "facebook_event_id": null,
+      "logo_id": "751601039",
+      "organizer_id": "78683726383",
+      "venue_id": "210666559",
+      "category_id": "101",
+      "subcategory_id": "1001",
+      "format_id": "9",
+      "id": "892049814007",
+      "resource_uri": "https://www.eventbriteapi.com/v3/events/892049814007/",
+      "is_externally_ticketed": false,
+      "series_id": "892049493047",
+      "logo": {
+        "crop_mask": {
+          "top_left": {
+            "x": 0,
+            "y": 0
+          },
+          "width": 2160,
+          "height": 1080
+        },
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?auto=format%2Ccompress&q=75&sharp=10&s=30b0714ca89509afc2040c87b81622f7",
+          "width": 2160,
+          "height": 1080
+        },
+        "id": "751601039",
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=2ef9259fb20673f90029221705e5baf2",
+        "aspect_ratio": "2",
+        "edge_color": "#e8d8d1",
+        "edge_color_set": true
+      }
+    },
+    {
+      "name": {
+        "text": "Dreamer To Achiever: An Entrepreneur's Guide to Getting Started!",
+        "html": "Dreamer To Achiever: An Entrepreneur&#39;s Guide to Getting Started!"
+      },
+      "description": {
+        "text": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+        "html": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!"
+      },
+      "url": "https://www.eventbrite.com/e/dreamer-to-achiever-an-entrepreneurs-guide-to-getting-started-tickets-892052903247",
+      "start": {
+        "timezone": "America/Phoenix",
+        "local": "2024-05-14T08:00:00",
+        "utc": "2024-05-14T15:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Phoenix",
+        "local": "2024-05-14T09:30:00",
+        "utc": "2024-05-14T16:30:00Z"
+      },
+      "organization_id": "2000273189263",
+      "created": "2024-04-27T01:46:29Z",
+      "changed": "2024-05-15T16:38:37Z",
+      "published": "2024-04-27T17:10:58Z",
+      "capacity": 25,
+      "capacity_is_custom": true,
+      "status": "completed",
+      "currency": "USD",
+      "listed": true,
+      "shareable": true,
+      "invite_only": false,
+      "online_event": false,
+      "show_remaining": false,
+      "tx_time_limit": 1200,
+      "hide_start_date": false,
+      "hide_end_date": false,
+      "locale": "en_US",
+      "is_locked": false,
+      "privacy_setting": "unlocked",
+      "is_series": true,
+      "is_series_parent": false,
+      "inventory_type": "limited",
+      "is_reserved_seating": false,
+      "show_pick_a_seat": false,
+      "show_seatmap_thumbnail": false,
+      "show_colors_in_seatmap_thumbnail": false,
+      "source": "coyote",
+      "is_free": true,
+      "version": null,
+      "summary": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+      "facebook_event_id": null,
+      "logo_id": "751601039",
+      "organizer_id": "78683726383",
+      "venue_id": "210667009",
+      "category_id": "101",
+      "subcategory_id": "1001",
+      "format_id": "9",
+      "id": "892052903247",
+      "resource_uri": "https://www.eventbriteapi.com/v3/events/892052903247/",
+      "is_externally_ticketed": false,
+      "series_id": "892050445897",
+      "logo": {
+        "crop_mask": {
+          "top_left": {
+            "x": 0,
+            "y": 0
+          },
+          "width": 2160,
+          "height": 1080
+        },
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?auto=format%2Ccompress&q=75&sharp=10&s=30b0714ca89509afc2040c87b81622f7",
+          "width": 2160,
+          "height": 1080
+        },
+        "id": "751601039",
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=2ef9259fb20673f90029221705e5baf2",
+        "aspect_ratio": "2",
+        "edge_color": "#e8d8d1",
+        "edge_color_set": true
+      }
+    },
+    {
+      "name": {
+        "text": "Dreamer To Achiever: An Entrepreneur's Guide to Getting Started!",
+        "html": "Dreamer To Achiever: An Entrepreneur&#39;s Guide to Getting Started!"
+      },
+      "description": {
+        "text": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+        "html": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!"
+      },
+      "url": "https://www.eventbrite.com/e/dreamer-to-achiever-an-entrepreneurs-guide-to-getting-started-tickets-892052923307",
+      "start": {
+        "timezone": "America/Phoenix",
+        "local": "2024-05-14T08:00:00",
+        "utc": "2024-05-14T15:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Phoenix",
+        "local": "2024-05-14T09:30:00",
+        "utc": "2024-05-14T16:30:00Z"
+      },
+      "organization_id": "2000273189263",
+      "created": "2024-04-27T01:46:39Z",
+      "changed": "2024-05-15T16:38:37Z",
+      "published": "2024-04-27T17:15:12Z",
+      "capacity": 25,
+      "capacity_is_custom": true,
+      "status": "completed",
+      "currency": "USD",
+      "listed": true,
+      "shareable": true,
+      "invite_only": false,
+      "online_event": false,
+      "show_remaining": false,
+      "tx_time_limit": 1200,
+      "hide_start_date": false,
+      "hide_end_date": false,
+      "locale": "en_US",
+      "is_locked": false,
+      "privacy_setting": "unlocked",
+      "is_series": true,
+      "is_series_parent": false,
+      "inventory_type": "limited",
+      "is_reserved_seating": false,
+      "show_pick_a_seat": false,
+      "show_seatmap_thumbnail": false,
+      "show_colors_in_seatmap_thumbnail": false,
+      "source": "coyote",
+      "is_free": true,
+      "version": null,
+      "summary": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+      "facebook_event_id": null,
+      "logo_id": "751601039",
+      "organizer_id": "78683726383",
+      "venue_id": "210667029",
+      "category_id": "101",
+      "subcategory_id": "1001",
+      "format_id": "9",
+      "id": "892052923307",
+      "resource_uri": "https://www.eventbriteapi.com/v3/events/892052923307/",
+      "is_externally_ticketed": false,
+      "series_id": "892050465957",
+      "logo": {
+        "crop_mask": {
+          "top_left": {
+            "x": 0,
+            "y": 0
+          },
+          "width": 2160,
+          "height": 1080
+        },
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?auto=format%2Ccompress&q=75&sharp=10&s=30b0714ca89509afc2040c87b81622f7",
+          "width": 2160,
+          "height": 1080
+        },
+        "id": "751601039",
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=2ef9259fb20673f90029221705e5baf2",
+        "aspect_ratio": "2",
+        "edge_color": "#e8d8d1",
+        "edge_color_set": true
+      }
+    },
+    {
+      "name": {
+        "text": "Dreamer To Achiever: An Entrepreneur's Guide to Getting Started!",
+        "html": "Dreamer To Achiever: An Entrepreneur&#39;s Guide to Getting Started!"
+      },
+      "description": {
+        "text": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+        "html": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!"
+      },
+      "url": "https://www.eventbrite.com/e/dreamer-to-achiever-an-entrepreneurs-guide-to-getting-started-tickets-892052943367",
+      "start": {
+        "timezone": "America/Phoenix",
+        "local": "2024-05-14T08:00:00",
+        "utc": "2024-05-14T15:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Phoenix",
+        "local": "2024-05-14T09:30:00",
+        "utc": "2024-05-14T16:30:00Z"
+      },
+      "organization_id": "2000273189263",
+      "created": "2024-04-27T01:46:48Z",
+      "changed": "2024-05-15T16:38:37Z",
+      "published": "2024-04-27T17:21:27Z",
+      "capacity": 25,
+      "capacity_is_custom": true,
+      "status": "completed",
+      "currency": "USD",
+      "listed": true,
+      "shareable": true,
+      "invite_only": false,
+      "online_event": false,
+      "show_remaining": false,
+      "tx_time_limit": 1200,
+      "hide_start_date": false,
+      "hide_end_date": false,
+      "locale": "en_US",
+      "is_locked": false,
+      "privacy_setting": "unlocked",
+      "is_series": true,
+      "is_series_parent": false,
+      "inventory_type": "limited",
+      "is_reserved_seating": false,
+      "show_pick_a_seat": false,
+      "show_seatmap_thumbnail": false,
+      "show_colors_in_seatmap_thumbnail": false,
+      "source": "coyote",
+      "is_free": true,
+      "version": null,
+      "summary": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+      "facebook_event_id": null,
+      "logo_id": "751601039",
+      "organizer_id": "78683726383",
+      "venue_id": "210667049",
+      "category_id": "101",
+      "subcategory_id": "1001",
+      "format_id": "9",
+      "id": "892052943367",
+      "resource_uri": "https://www.eventbriteapi.com/v3/events/892052943367/",
+      "is_externally_ticketed": false,
+      "series_id": "892050526137",
+      "logo": {
+        "crop_mask": {
+          "top_left": {
+            "x": 0,
+            "y": 0
+          },
+          "width": 2160,
+          "height": 1080
+        },
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?auto=format%2Ccompress&q=75&sharp=10&s=30b0714ca89509afc2040c87b81622f7",
+          "width": 2160,
+          "height": 1080
+        },
+        "id": "751601039",
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=2ef9259fb20673f90029221705e5baf2",
+        "aspect_ratio": "2",
+        "edge_color": "#e8d8d1",
+        "edge_color_set": true
+      }
+    },
+    {
+      "name": {
+        "text": "Dreamer To Achiever: An Entrepreneur's Guide to Getting Started!",
+        "html": "Dreamer To Achiever: An Entrepreneur&#39;s Guide to Getting Started!"
+      },
+      "description": {
+        "text": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+        "html": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!"
+      },
+      "url": "https://www.eventbrite.com/e/dreamer-to-achiever-an-entrepreneurs-guide-to-getting-started-tickets-892052963427",
+      "start": {
+        "timezone": "America/Phoenix",
+        "local": "2024-05-14T08:00:00",
+        "utc": "2024-05-14T15:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Phoenix",
+        "local": "2024-05-14T09:30:00",
+        "utc": "2024-05-14T16:30:00Z"
+      },
+      "organization_id": "2000273189263",
+      "created": "2024-04-27T01:46:56Z",
+      "changed": "2024-05-15T16:38:37Z",
+      "published": "2024-04-27T17:12:47Z",
+      "capacity": 25,
+      "capacity_is_custom": true,
+      "status": "completed",
+      "currency": "USD",
+      "listed": true,
+      "shareable": true,
+      "invite_only": false,
+      "online_event": false,
+      "show_remaining": false,
+      "tx_time_limit": 1200,
+      "hide_start_date": false,
+      "hide_end_date": false,
+      "locale": "en_US",
+      "is_locked": false,
+      "privacy_setting": "unlocked",
+      "is_series": true,
+      "is_series_parent": false,
+      "inventory_type": "limited",
+      "is_reserved_seating": false,
+      "show_pick_a_seat": false,
+      "show_seatmap_thumbnail": false,
+      "show_colors_in_seatmap_thumbnail": false,
+      "source": "coyote",
+      "is_free": true,
+      "version": null,
+      "summary": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+      "facebook_event_id": null,
+      "logo_id": "751601039",
+      "organizer_id": "78683726383",
+      "venue_id": "210667059",
+      "category_id": "101",
+      "subcategory_id": "1001",
+      "format_id": "9",
+      "id": "892052963427",
+      "resource_uri": "https://www.eventbriteapi.com/v3/events/892052963427/",
+      "is_externally_ticketed": false,
+      "series_id": "892050536167",
+      "logo": {
+        "crop_mask": {
+          "top_left": {
+            "x": 0,
+            "y": 0
+          },
+          "width": 2160,
+          "height": 1080
+        },
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?auto=format%2Ccompress&q=75&sharp=10&s=30b0714ca89509afc2040c87b81622f7",
+          "width": 2160,
+          "height": 1080
+        },
+        "id": "751601039",
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=2ef9259fb20673f90029221705e5baf2",
+        "aspect_ratio": "2",
+        "edge_color": "#e8d8d1",
+        "edge_color_set": true
+      }
+    },
+    {
+      "name": {
+        "text": "Dreamer To Achiever: An Entrepreneur's Guide to Getting Started!",
+        "html": "Dreamer To Achiever: An Entrepreneur&#39;s Guide to Getting Started!"
+      },
+      "description": {
+        "text": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+        "html": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!"
+      },
+      "url": "https://www.eventbrite.com/e/dreamer-to-achiever-an-entrepreneurs-guide-to-getting-started-tickets-892049824037",
+      "start": {
+        "timezone": "America/Denver",
+        "local": "2024-05-14T09:00:00",
+        "utc": "2024-05-14T15:00:00Z"
+      },
+      "end": {
+        "timezone": "America/Denver",
+        "local": "2024-05-14T10:30:00",
+        "utc": "2024-05-14T16:30:00Z"
+      },
+      "organization_id": "2000273189263",
+      "created": "2024-04-27T01:35:45Z",
+      "changed": "2024-05-15T16:38:36Z",
+      "published": "2024-04-27T12:33:18Z",
+      "capacity": 25,
+      "capacity_is_custom": true,
+      "status": "completed",
+      "currency": "USD",
+      "listed": true,
+      "shareable": true,
+      "invite_only": false,
+      "online_event": false,
+      "show_remaining": false,
+      "tx_time_limit": 1200,
+      "hide_start_date": false,
+      "hide_end_date": false,
+      "locale": "en_US",
+      "is_locked": false,
+      "privacy_setting": "unlocked",
+      "is_series": true,
+      "is_series_parent": false,
+      "inventory_type": "limited",
+      "is_reserved_seating": false,
+      "show_pick_a_seat": false,
+      "show_seatmap_thumbnail": false,
+      "show_colors_in_seatmap_thumbnail": false,
+      "source": "coyote",
+      "is_free": true,
+      "version": null,
+      "summary": "A workshop on kickstarting an entrepreneurial journey with limited capital or no experience. Learn how to start your online business today!",
+      "facebook_event_id": null,
+      "logo_id": "751601039",
+      "organizer_id": "78683726383",
+      "venue_id": "210666569",
+      "category_id": "101",
+      "subcategory_id": "1001",
+      "format_id": "9",
+      "id": "892049824037",
+      "resource_uri": "https://www.eventbriteapi.com/v3/events/892049824037/",
+      "is_externally_ticketed": false,
+      "series_id": "892049513107",
+      "logo": {
+        "crop_mask": {
+          "top_left": {
+            "x": 0,
+            "y": 0
+          },
+          "width": 2160,
+          "height": 1080
+        },
+        "original": {
+          "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?auto=format%2Ccompress&q=75&sharp=10&s=30b0714ca89509afc2040c87b81622f7",
+          "width": 2160,
+          "height": 1080
+        },
+        "id": "751601039",
+        "url": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F751601039%2F2000272645483%2F1%2Foriginal.20240424-184350?h=200&w=450&auto=format%2Ccompress&q=75&sharp=10&rect=0%2C0%2C2160%2C1080&s=2ef9259fb20673f90029221705e5baf2",
+        "aspect_ratio": "2",
+        "edge_color": "#e8d8d1",
+        "edge_color_set": true
+      }
+    }
+  ]
+}
